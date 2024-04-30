@@ -4,11 +4,13 @@
 {% include head.html %}
 
 <body id="page-top">
-  {% include nav.html %}
-  {% include header.html %}
-  {% include membership.html %}
-  {% include about.html %}
-  {% include tweets.html %}
+  {% include sidenav.html %}
+  {% include sideheader.html %}
+
+  {% if page.templateFile %}
+    {% include {{ page.templateFile }} %}
+  {% endif %}
+
   {% include contact.html %}
   {% include scripts.html %}
 </body>
