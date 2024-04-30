@@ -17,12 +17,8 @@
     });
 
     // Highlight the top nav as scrolling occurs
-    // $('body').scrollspy({
-    //     target: '.navbar-fixed-top',
-    //     offset: 51
-    // })
-    var scrollSpy = new bootstrap.ScrollSpy(document.body, {
-        target: '#navbar-example',
+    $('body').scrollspy({
+        target: '.navbar-fixed-top',
         offset: 51
     })
 
