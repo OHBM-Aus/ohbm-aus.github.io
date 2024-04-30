@@ -1,0 +1,20 @@
+nav:
+  - title: "Membership"
+    type: "section"
+    link: membership
+
+  - title: "About"
+    type: "section"
+    link: "about"
+
+  - title: "Webinars"
+    type: "subsection"
+    link: webinar
+
+  - title: "Team"
+    type: "subsection"
+    link: team
+
+  - title: "Contact"
+    type: "allsection"
+    link: contact

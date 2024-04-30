@@ -1,0 +1,320 @@
+current:
+
+  - name: "Adeel Razi"
+    image: adeel.jpg
+    title: Chair
+    link: https://research.monash.edu/en/persons/adeel-razi
+    twitter: adeelrazi
+    scholar: VG3onZwAAAAJ
+
+  - name: "Kiley Seymour"
+    image: kiley.jpg
+    title: Secretary
+    link: https://profiles.uts.edu.au/kiley.seymour
+    scholar: BKcesVkAAAAJ
+    twitter: ???
+
+  - name: "Brandon Munn"
+    image: brandon.jpg
+    title: Treasurer
+    link: https://www.forefrontresearch.org/dr-brandon-munn/
+    twitter: DrBMunn
+    scholar: D9bDLRoAAAAJ
+
+  - name: "Thomas Shaw"
+    image: thomas.jpeg
+    title: ECR representative
+    link: https://researchers.uq.edu.au/researcher/30967
+    twitter: thomcat992
+    scholar: mA9ItOQAAAAJ
+
+  - name: "Eli Muller"
+    image: eli.jpeg
+    title: ECR representative
+    link: https://www.linkedin.com/in/eli-muller-31483a85/?originalSubdomain=au
+    twitter: eli_j_muller
+    scholar: h1gl_ckAAAAJ
+
+  - name: "Emillie Beyer"
+    image: emillie.jpg
+    title: Student representative
+    link: https://www.researchgate.net/profile/Emillie_Beyer
+    scholar: QEK8VuMAAAAJ
+    twitter: ???
+
+  - name: "Hollie Byrne"
+    image: hollie.jpg
+    title: Student representative
+    link: https://twitter.com/_HollieByrne
+    twitter: _holliebyrne
+    scholar: ???
+
+  - name: "Xuqian Li"
+    image: xuqian.jpeg
+    title: Student representative
+    link: https://clinical-research.centre.uq.edu.au/profile/7714/xuqian-li
+    twitter: XuqianLi997
+    scholar: lqQE6GcAAAAJ
+
+  - name: "Alexander Holmes"
+    image: alexander.jpg
+    title: Student representative
+    link: https://www.linkedin.com/in/alexander-holmes/
+    twitter: alexholmes_nsb
+    scholar: ???
+
+elect:
+
+  - name: "Andrew Zalesky"
+    image: andrew.jpeg
+    title: Chair-Elect
+    link: https://findanexpert.unimelb.edu.au/profile/24599-andrew-zalesky
+    twitter: andrewzalesky
+    scholar: LmnMR3MAAAAJ
+
+  - name: "Amanda Robinson"
+    image: amanda.png
+    title: Secretary-Elect
+    link: https://mattingley-lab.uq-qbi-cogneuro.com/home/people/dr-amanda-robinson
+    twitter: amandarob10
+    scholar: PaKRSt4AAAAJ
+
+  - name: "Claire O'Callaghan"
+    image: claire.jpg
+    title: Treasurer-Elect
+    link: https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/claire-ocallaghan.html
+    twitter: c__ocallaghan
+    scholar: a0SO9nEAAAAJ
+
+  - name: "Sina Mansour L."
+    image: sina.png
+    title: ECR representative
+    link: https://sina-mansour.github.io/
+    twitter: Sina_Mansour_L
+    scholar: GVoC568AAAAJ
+
+  - name: "Natasha Taylor"
+    image: natasha.png
+    title: ECR representative
+    link: https://www.linkedin.com/in/natasha-taylor-b05a5b207?originalSubdomain=au
+    twitter: NatashaL_Taylor
+    scholar: 6zhgsicAAAAJ
+
+  - name: "Matthew Greaves"
+    image: matthew.jpeg
+    title: Student representative
+    link: https://www.linkedin.com/in/matthew-d-greaves/?originalSubdomain=au
+    twitter: ???
+    scholar: ???
+
+  - name: "Priscila T. Levi"
+    image: priscila.jpeg
+    title: Student representative
+    link: https://www.linkedin.com/in/priscila-levi-567168184/?originalSubdomain=au
+    twitter: PriscilaTLevi
+    scholar: ???
+
+past:
+  - year: 2022-2023
+    team:
+
+      - name: "James M. Shine"
+        image: mac.jpeg
+        title: Chair
+        link: https://macshine.github.io/
+        twitter: jmacshine
+        scholar: Uxvu7CsAAAAJ
+
+      - name: "Warda Syeda"
+        image: warda.jpg
+        title: Secretary
+        link: https://findanexpert.unimelb.edu.au/profile/687479-warda-syeda
+        twitter: WardaTSyeda
+        scholar: 6PNAR0EAAAAJ
+
+      - name: "Ye Tian"
+        image: ye.jpeg
+        title: Treasurer
+        link: https://findanexpert.unimelb.edu.au/profile/827141-ye-tian
+        twitter: yetianmed
+        scholar: ocJSFvUAAAAJ
+
+      - name: "Mana Biabani"
+        image: mana.jpg
+        title: ECR representative
+        link: https://research.monash.edu/en/persons/mana-biabani
+        twitter: manabiabani
+        scholar: KbR-hoMAAAAJ
+
+      - name: "Megan Campbell"
+        image: megan.jpeg
+        title: ECR representative
+        link: https://www.linkedin.com/in/m-e-j-campbell-cogneuro/?originalSubdomain=au
+        twitter: megaej_campbell
+        scholar: djvWO14AAAAJ
+
+      - name: "Myrte Strik"
+        image: myrte.jpg
+        title: ECR representative
+        link: https://www.spinozacentre.nl/persoon/myrte-strik/
+        twitter: myrtestrik
+        scholar: ???
+
+      - name: "Rebecca Cooper"
+        image: rebecca.jpg
+        title: Student representative
+        link: https://pursuit.unimelb.edu.au/individuals/rebecca-cooper
+        twitter: beccooper_
+        scholar: padvoLcAAAAJ
+
+      - name: "Sina Mansour L."
+        image: sina.png
+        title: Student representative
+        link: https://sina-mansour.github.io/
+        twitter: Sina_Mansour_L
+        scholar: GVoC568AAAAJ
+
+  - year: 2021-2022
+    team:
+
+      - name: "Marta Garrido"
+        image: marta.jpg
+        title: Chair
+        link: https://findanexpert.unimelb.edu.au/profile/837405-marta-garrido
+        twitter: martaigarrido
+        scholar: b8nJYmwAAAAJ
+
+      - name: "Valentina Lorenzetti"
+        image: valentina.jpg
+        title: Secretary
+        link: https://www.acu.edu.au/research-and-enterprise/our-research-institutes/healthy-brain-and-mind-research-centre/our-people/associate-professor-valentina-lorenzetti
+        twitter: vale_addiction
+        scholar: 0UsOn-QAAAAJ
+
+      - name: "Johanna Bayer"
+        image: johanna.jpeg
+        title: Treasurer
+        link: https://www.linkedin.com/in/johanna-bayer/?originalSubdomain=au
+        twitter: likeajumprope
+        scholar: 04r_fUkAAAAJ
+
+      - name: "Aurina Arnatkeviciute"
+        image: aurina.jpg
+        title: ECR representative
+        link: https://research.monash.edu/en/persons/aurina-arnatkeviciute
+        twitter: AurinaArn
+        scholar: SlHRp2QAAAAJ
+
+      - name: "Steffen Bollmann"
+        image: steffen.jpeg
+        title: ECR representative
+        link: https://researchers.uq.edu.au/researcher/11402
+        twitter: sbollmann_MRI
+        scholar: HmXlj24AAAAJ
+
+      - name: "James Pang"
+        image: james.jpeg
+        title: ECR representative
+        link: https://research.monash.edu/en/persons/james-pang
+        twitter: jchrispang
+        scholar: QdrOmZgAAAAJ
+
+      - name: "Ye Tian"
+        image: ye.jpeg
+        title: ECR representative
+        link: https://findanexpert.unimelb.edu.au/profile/827141-ye-tian
+        twitter: yetianmed
+        scholar: ocJSFvUAAAAJ
+
+  - year: 2020-2021
+    team:
+
+      - name: "Alex Fornito"
+        image: alex.jpg
+        title: Chair
+        link: https://research.monash.edu/en/persons/alex-fornito
+        twitter: AFornito
+        scholar: uceaXuYAAAAJ
+
+      - name: "Rishma Vidyasagar"
+        image: rishma.jpeg
+        title: Secretary
+        link: https://www.linkedin.com/in/rishmavidyasagar/?originalSubdomain=au
+        twitter: rishmav
+        scholar: e3qYAbAAAAAJ
+
+      - name: "Adeel Razi"
+        image: adeel.jpg
+        title: Treasurer
+        link: https://research.monash.edu/en/persons/adeel-razi
+        twitter: adeelrazi
+        scholar: VG3onZwAAAAJ
+
+      - name: "Alexander Puckett"
+        image: alexp.jpg
+        title: ECR representative
+        link: https://www.linkedin.com/in/alexander-puckett-4320626/?originalSubdomain=au
+        twitter: pucketta_m
+        scholar: ???
+
+      - name: "Johanna Bayer"
+        image: johanna.jpeg
+        title: ECR representative
+        link: https://www.linkedin.com/in/johanna-bayer/?originalSubdomain=au
+        twitter: likeajumprope
+        scholar: 04r_fUkAAAAJ
+
+      - name: "Kelly Garner"
+        image: kelly.jpg
+        title: ECR representative
+        link: https://www.unsw.edu.au/staff/kelly-grace-garner
+        twitter: garner_theory
+        scholar: nmeSlZkAAAAJ
+
+  - year: 2019-2020
+    team:
+
+      - name: "Jason Mattingley"
+        image: jason.jpeg
+        title: Chair
+        link: https://qbi.uq.edu.au/profile/655/jason-mattingley
+        twitter: jbmattingley
+        scholar: EVQHmXIAAAAJ
+
+      - name: "Natalia Egorova"
+        image: natalia.jpg
+        title: Secretary
+        link: https://findanexpert.unimelb.edu.au/profile/777988-natalia-brumley
+        twitter: NataliaBrumley
+        scholar: M9KD_VsAAAAJ
+
+      - name: "James M. Shine"
+        image: mac.jpeg
+        title: Treasurer
+        link: https://macshine.github.io/
+        twitter: jmacshine
+        scholar: Uxvu7CsAAAAJ
+
+  - year: 2018-2019
+    team:
+
+      - name: "Amy Brodtmann"
+        image: amy.jpeg
+        title: Chair
+        link: https://research.monash.edu/en/persons/amy-brodtmann
+        twitter: amybrodtmann
+        scholar: cN7bEFgAAAAJ
+
+      - name: "Lianne Schmaal"
+        image: lianne.jpg
+        title: Secretary
+        link: https://orygen.org.au/About/Our-Leaders/Researchers/Professor-Lianne-Schmaal
+        twitter: lianne_schmaal
+        scholar: U2sqVT8AAAAJ
+
+      - name: "Alex Fornito"
+        image: alex.jpg
+        title: Treasurer
+        link: https://research.monash.edu/en/persons/alex-fornito
+        twitter: AFornito
+        scholar: uceaXuYAAAAJ
