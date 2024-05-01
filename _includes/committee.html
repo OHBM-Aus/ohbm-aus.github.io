@@ -1,107 +1,142 @@
 <section id="team">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 text-dark">
+            <div class="col-lg-12 text-dark collapsible-wrapper">
                 <p class="text-center text-primary"><i class="fa-solid fa-users fa-4x wow bounceIn" data-wow-delay=".3s"></i></p>
-                <hr class="primary">
-                <h2 class="h1 text-center text-primary">Current council (2023-2024)</h2>
-                <hr class="primary">
-                
-                {% for member in site.data.team.current %}
-                <div class="col-sm-4 member">
-                    <a href="{{ member.link }}" target="blank">
-                        <div class="circular-image">
-                                <img class="img-responsive" src="/img/team/{{ member.image }}" alt="{{ member.name }}">
-                        </div>
-                    </a>
-                    <div class="text-center" style="height: 100px;">
-                        <p class="h3">{{ member.name }}</p>
-                        <p class="h4 text-primary">{{ member.title }}</p>
-                        <p class="h4 text-primary">
-                            {%- if member.scholar != "???" -%}
-                                <a href="https://scholar.google.com.au/citations?user={{ member.scholar }}&hl=en" target="blank">
-                                    <i class="fa-brands fa-2x fa-google-scholar" data-wow-delay=".3s"></i>
-                                </a> &nbsp;
-                            {%- endif -%}
-                            {%- if member.twitter != "???" -%}
-                                <a href="https://twitter.com/{{ member.twitter }}" target="blank">
-                                    <i class="fa-brands fa-2x fa-twitter" data-wow-delay=".3s"></i>
-                                </a>
-                            {%- endif -%}
-                        </p>
-                    </div>
-                </div>
-                {% endfor %}
-            </div>
-
-            <div class="col-lg-12" style="height: 100px;"></div>
-
-            <div class="col-lg-12 text-dark">
-                <hr class="primary">
-                <h2 class="h1 text-center text-primary">Elect council (2024-2025)</h2>
-                <hr class="primary">
-                
-                {% for member in site.data.team.elect %}
-                <div class="col-sm-4 member">
-                    <a href="{{ member.link }}" target="blank">
-                        <div class="circular-image">
-                                <img class="img-responsive" src="/img/team/{{ member.image }}" alt="{{ member.name }}">
-                        </div>
-                    </a>
-                    <div class="text-center" style="height: 100px;">
-                        <p class="h3">{{ member.name }}</p>
-                        <p class="h4 text-primary">{{ member.title }}</p>
-                        <p class="h4 text-primary">
-                            {%- if member.scholar != "???" -%}
-                                <a href="https://scholar.google.com.au/citations?user={{ member.scholar }}&hl=en" target="blank">
-                                    <i class="fa-brands fa-2x fa-google-scholar" data-wow-delay=".3s"></i>
-                                </a> &nbsp;
-                            {%- endif -%}
-                            {%- if member.twitter != "???" -%}
-                                <a href="https://twitter.com/{{ member.twitter }}" target="blank">
-                                    <i class="fa-brands fa-2x fa-twitter" data-wow-delay=".3s"></i>
-                                </a>
-                            {%- endif -%}
-                        </p>
-                    </div>
-                </div>
-                {% endfor %}
-            </div>
-
-            {% for council in site.data.team.past %}
-
-                <div class="col-lg-12" style="height: 100px;"></div>
-
-                <div class="col-lg-12 text-dark">
+                    <h2 class="h1 text-center text-primary">OHBM Australia Council Members</h2>
+                <div class="col-lg-12 collapsible-button text-center">
                     <hr class="primary">
-                    <h2 class="h1 text-center text-primary">{{ council.year }} Council</h2>
-                    <hr class="primary">
-                    
-                    {% for member in council.team %}
+                    <p class="btn btn-primary btn-xl btn-lg">
+                        <i class="fa-solid fa-people-group"></i>
+                        &nbsp; Current council (2023-2024) &nbsp;
+                        <i class="fa-solid fa-minus collapsible-marker"></i>
+                    </p>
+                </div>
+                
+                <div class="col-lg-12 collapsible-content active">
+                    {% for member in site.data.team.current %}
                     <div class="col-sm-4 member">
                         <a href="{{ member.link }}" target="blank">
                             <div class="circular-image">
                                     <img class="img-responsive" src="/img/team/{{ member.image }}" alt="{{ member.name }}">
                             </div>
                         </a>
-                        <div class="text-center" style="height: 100px;">
-                            <p class="h3">{{ member.name }}</p>
-                            <p class="h4 text-primary">{{ member.title }}</p>
+                        <div class="text-center">
+                            <a href="{{ member.link }}" target="blank"><p class="h3">{{ member.name }}</p></a>
+                            <p class="h4">{{ member.title }}</p>
                             <p class="h4 text-primary">
                                 {%- if member.scholar != "???" -%}
                                     <a href="https://scholar.google.com.au/citations?user={{ member.scholar }}&hl=en" target="blank">
                                         <i class="fa-brands fa-2x fa-google-scholar" data-wow-delay=".3s"></i>
                                     </a> &nbsp;
+                                {%- else -%}
+                                    <i class="fa-brands fa-2x fa-google-scholar missing" data-wow-delay=".3s"></i> &nbsp;
                                 {%- endif -%}
                                 {%- if member.twitter != "???" -%}
                                     <a href="https://twitter.com/{{ member.twitter }}" target="blank">
                                         <i class="fa-brands fa-2x fa-twitter" data-wow-delay=".3s"></i>
                                     </a>
+                                {%- else -%}
+                                    <i class="fa-brands fa-2x fa-twitter missing" data-wow-delay=".3s"></i> &nbsp;
+                                {%- endif -%}
+                            </p>
+                        </div>
+                    </div>
+                {% endfor %}
+                </div>
+            </div>
+
+            <div class="col-lg-12 text-dark collapsible-wrapper">
+                <div class="col-lg-12 collapsible-button text-center">
+                    <hr class="primary">
+                    <p class="btn btn-primary btn-xl btn-lg">
+                        <i class="fa-solid fa-people-group"></i>
+                        &nbsp; Elect council (2024-2025) &nbsp;
+                        <i class="fa-solid fa-minus collapsible-marker"></i>
+                    </p>
+                </div>
+                
+                <div class="col-lg-12 collapsible-content active">
+                    {% for member in site.data.team.elect %}
+                    <div class="col-sm-4 member">
+                        <a href="{{ member.link }}" target="blank">
+                            <div class="circular-image">
+                                    <img class="img-responsive" src="/img/team/{{ member.image }}" alt="{{ member.name }}">
+                            </div>
+                        </a>
+                        <div class="text-center">
+                            <a href="{{ member.link }}" target="blank"><p class="h3">{{ member.name }}</p></a>
+                            <p class="h4">{{ member.title }}</p>
+                            <p class="h4 text-primary">
+                                {%- if member.scholar != "???" -%}
+                                    <a href="https://scholar.google.com.au/citations?user={{ member.scholar }}&hl=en" target="blank">
+                                        <i class="fa-brands fa-2x fa-google-scholar" data-wow-delay=".3s"></i>
+                                    </a> &nbsp;
+                                {%- else -%}
+                                    <i class="fa-brands fa-2x fa-google-scholar missing" data-wow-delay=".3s"></i> &nbsp;
+                                {%- endif -%}
+                                {%- if member.twitter != "???" -%}
+                                    <a href="https://twitter.com/{{ member.twitter }}" target="blank">
+                                        <i class="fa-brands fa-2x fa-twitter" data-wow-delay=".3s"></i>
+                                    </a>
+                                {%- else -%}
+                                    <i class="fa-brands fa-2x fa-twitter missing" data-wow-delay=".3s"></i> &nbsp;
                                 {%- endif -%}
                             </p>
                         </div>
                     </div>
                     {% endfor %}
+                </div>
+            </div>
+
+            <div class="col-lg-12 text-dark">
+                <hr class="primary">
+                <h2 class="h1 text-center text-primary bold">Past councils</h2>
+            </div>
+
+            {% for council in site.data.team.past %}
+
+                <div class="col-lg-12 text-dark collapsible-wrapper">
+                    <div class="col-lg-12 collapsible-button text-center">
+                        <hr class="primary">
+                        <p class="btn btn-primary btn-xl btn-lg">
+                            <i class="fa-solid fa-people-group"></i>
+                            &nbsp; {{ council.year }} Council &nbsp;
+                            <i class="fa-solid fa-chevron-down collapsible-marker"></i>
+                        </p>
+                    </div>
+                    
+                    <div class="col-lg-12 collapsible-content">
+                        {% for member in council.team %}
+                        <div class="col-sm-4 member">
+                            <a href="{{ member.link }}" target="blank">
+                                <div class="circular-image">
+                                        <img class="img-responsive" src="/img/team/{{ member.image }}" alt="{{ member.name }}">
+                                </div>
+                            </a>
+                            <div class="text-center">
+                                <a href="{{ member.link }}" target="blank"><p class="h3">{{ member.name }}</p></a>
+                                <p class="h4">{{ member.title }}</p>
+                                <p class="h4 text-primary">
+                                    {%- if member.scholar != "???" -%}
+                                        <a href="https://scholar.google.com.au/citations?user={{ member.scholar }}&hl=en" target="blank">
+                                            <i class="fa-brands fa-2x fa-google-scholar" data-wow-delay=".3s"></i>
+                                        </a> &nbsp;
+                                    {%- else -%}
+                                        <i class="fa-brands fa-2x fa-google-scholar missing" data-wow-delay=".3s"></i> &nbsp;
+                                    {%- endif -%}
+                                    {%- if member.twitter != "???" -%}
+                                        <a href="https://twitter.com/{{ member.twitter }}" target="blank">
+                                            <i class="fa-brands fa-2x fa-twitter" data-wow-delay=".3s"></i>
+                                        </a>
+                                    {%- else -%}
+                                        <i class="fa-brands fa-2x fa-twitter missing" data-wow-delay=".3s"></i> &nbsp;
+                                    {%- endif -%}
+                                </p>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
                 </div>
 
             {% endfor %}

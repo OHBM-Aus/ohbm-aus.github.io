@@ -46,3 +46,19 @@
     new WOW().init();
 
 })(jQuery); // End of use strict
+
+document.addEventListener('DOMContentLoaded', function() {
+    var wrappers = document.querySelectorAll('.collapsible-wrapper');
+
+    wrappers.forEach(function(wrapper) {
+        var button = wrapper.querySelector('.collapsible-button');
+        var content = wrapper.querySelector('.collapsible-content');
+        var marker = wrapper.querySelector('.collapsible-marker');
+
+        button.addEventListener('click', function() {
+            content.classList.toggle('active');
+            marker.classList.toggle('fa-chevron-down');
+            marker.classList.toggle('fa-minus');
+        });
+    });
+});

@@ -1,0 +1,118 @@
+webinars:
+
+  - title: "Best Practices in EEG and MEG"
+    year: 2023
+    speakers:
+      - name: Prof. Tom Johnstone
+        link: https://www.swinburne.edu.au/research/our-research/access-our-research/find-a-researcher-or-supervisor/researcher-profile/?id=tjohnstone
+      - name: Dr. Dragan Rangelov
+        link: https://qbi.uq.edu.au/profile/1441/dragan-rangelov
+      - name: Dr. Sophie Lin
+        link: https://findanexpert.unimelb.edu.au/profile/861182-sophie-lin
+    videoID: YB2i52ei-5o
+
+  - title: "Brain Ageing"
+    year: 2023
+    speakers:
+      - name: Prof. Nicolas Cherbuin
+        link: https://researchers.anu.edu.au/researchers/cherbuin-n
+      - name: A/Prof. Vanessa Cropley
+        link: https://findanexpert.unimelb.edu.au/profile/424361-vanessa-cropley
+      - name: Dr. Claire Kelly
+        link: https://www.linkedin.com/in/dr-claire-kelly/?originalSubdomain=au
+    videoID: C0EfaIm6DLo
+
+  - title: "New Beginnings"
+    year: 2023
+    speakers:
+      - name: A/Prof. Adeel Razi
+        link: https://research.monash.edu/en/persons/adeel-razi
+      - name: Dr. Fernanda Ribeiro
+        link: https://researchers.uq.edu.au/researcher/36909
+      - name: Dr. Kelly Garner
+        link: https://www.unsw.edu.au/staff/kelly-grace-garner
+    videoID: HmWx8sDDa90
+
+  - title: "Normative Modelling & Single-Subject Analysis"
+    year: 2022
+    speakers:
+      - name: Dr. Saige Rutherford
+        link: https://www.linkedin.com/in/saigerutherford/?originalSubdomain=nl
+      - name: Dr. Ashlea Segal
+        link: https://medicine.yale.edu/profile/ashlea-segal/
+      - name: Dr. Warda Syeda
+        link: https://findanexpert.unimelb.edu.au/profile/687479-warda-syeda
+    videoID: V5W7uFQjNDY
+
+  - title: "How to be successful in grant writing"
+    year: 2022
+    speakers:
+      - name: Prof. Alex Fornito
+        link: https://research.monash.edu/en/persons/alex-fornito
+      - name: Prof. Frini Karayanidis
+        link: https://www.newcastle.edu.au/profile/frini-karayanidis
+      - name: Dr. Sharna Jamadar
+        link: https://research.monash.edu/en/persons/sharna-jamadar
+      - name: Dr. Hannah Filmer
+        link: https://researchers.uq.edu.au/researcher/2738
+    videoID: rIAIP7tuy38
+
+  - title: "Working with Data Collections"
+    year: 2021
+    speakers:
+      - name: Dr. Stuart Oldham
+        link: https://scholar.google.com/citations?user=jj5dZe0AAAAJ&hl=en
+      - name: Dr. Kevin Aquino
+        link: https://scholar.google.com/citations?user=fdlh7U8AAAAJ&hl=en
+      - name: Dr. Yu-Chi Chen
+        link: https://twitter.com/cyctbdbw?lang=en
+      - name: Dr. Eli Muller
+        link: https://scholar.google.com.au/citations?user=h1gl_ckAAAAJ&hl=en
+      - name: Dr. Aaron Warren
+        link: https://www.linkedin.com/in/aaron-warren-0a8117251/
+    videoID: mFjcjuBK_zs
+
+  - title: "Brain Imaging Data Structure (BIDS)"
+    year: 2021
+    speakers:
+      - name: Dr. Remi Gau
+        link: https://remi-gau.github.io/
+      - name: Dr. Guiomar Niso
+        link: https://guiomarniso.com/
+      - name: Dr. Kathryn Hall
+        link: https://www.linkedin.com/in/kathryn-hall-phd/?originalSubdomain=au
+      - name: Dr. Chao Suo
+        link: https://www.linkedin.com/in/dr-chao-suo/?originalSubdomain=au
+    videoID: m7vEHGpqQIw
+
+  - title: "Methods and considerations for correlating brain and behaviour"
+    year: 2021
+    speakers:
+      - name: A/Prof. Monica Rosenberg
+        link: https://psychology.uchicago.edu/directory/Monica-Rosenberg
+      - name: A/Prof. Nico Dosenbach
+        link: https://hopecenter.wustl.edu/people/nico-dosenbach-md-phd/
+      - name: Dr. Sina Mansour L.
+        link: https://sina-mansour.github.io/
+      - name: Dr. Jeggan Tiego
+        link: https://scholar.google.com.au/citations?user=-dWURD8AAAAJ&hl=en
+    videoID: wdUokUe_9tY
+
+  - title: "What comes after PHD?"
+    year: 2021
+    speakers:
+      - name: Dr. Natalia Egorova-Brumley
+        link: https://findanexpert.unimelb.edu.au/profile/777988-natalia-brumley
+      - name: Dr. Philip Ward
+        link: https://www.linkedin.com/in/phillip-gd-ward/?originalSubdomain=au
+      - name: Dr. Maria Joao Rosa
+        link: https://scholar.google.com/citations?user=aWcsUlQAAAAJ&hl=en
+      - name: Dr. Farshid Sepehrbrand
+        link: https://www.researchgate.net/profile/Farshid-Sepehrband
+      - name: Dr. Shyuan Ngo
+        link: https://researchers.uq.edu.au/researcher/1398
+      - name: Dr. Natalia Bielczyk
+        link: https://nataliabielczyk.com/
+      - name: Prof. Michael Breakspear
+        link: https://www.newcastle.edu.au/profile/michael-breakspear
+    videoID: oZwXWDl1fUU
