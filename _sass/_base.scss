@@ -473,3 +473,40 @@ hr.secondary-faded {
         height: 100%;
     }
 }
+
+.carousel-item {
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    .carousel-caption {
+        background-color: rgba(10, 10, 10, 0.5);
+        width: 80%;
+        position: absolute;
+        left: 10%;
+        padding: 40px;
+        border-radius: 20px;
+        .carousel-title {
+            font-size: 46px;
+        }
+        .carousel-message p {
+            font-size: 20px;
+        }
+    }
+}
+.carousel-indicators li {
+    background-color: #333;
+}
+.carousel-control-prev {
+    position: absolute;
+    top: 50%;
+    transform: translate(50%, -50%);
+    left: 10px;
+    color: #DDD;
+}
+.carousel-control-next {
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    right: 10px;
+    color: #DDD;
+}

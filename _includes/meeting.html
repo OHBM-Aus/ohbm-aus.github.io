@@ -1,0 +1,39 @@
+<section id="meetings" style="padding-top: 5vh; ">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-dark">
+                <div id="meetingsCarousel" class="carousel slide" data-ride="carousel">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                        {% for meeting in site.data.events.meetings %}
+                        {% assign meetingidx = forloop.index0 %}
+                            <li data-target="#meetingsCarousel" data-slide-to="{{ meetingidx }}" {% if meetingidx == 0 %}class="active"{% endif %}></li>
+                        {% endfor %}
+                    </ol>
+
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+                        {% for meeting in site.data.events.meetings %}
+                        {% assign meetingidx = forloop.index0 %}
+                        <div class="carousel-item item {% if meetingidx == 0 %}active{% endif %}" style="background-image: url('/img/{{ meeting.image }}');">
+                            <div class="carousel-caption d-none d-md-block">
+                                <p class="carousel-title">{{ meeting.name }}</p>
+                                <hr class="primary">
+                                <div class="carousel-message">{{ meeting.message | markdownify }}</div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+
+                    <!-- Left and right controls -->
+                    <a class="carousel-control-prev" href="#meetingsCarousel" role="button" data-slide="prev">
+                        <i class="fa-solid fa-angle-left fa-3x"></i>
+                    </a>
+                    <a class="carousel-control-next" href="#meetingsCarousel" role="button" data-slide="next">
+                        <i class="fa-solid fa-angle-right fa-3x"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

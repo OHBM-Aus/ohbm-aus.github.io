@@ -11,6 +11,10 @@ nav:
     type: "subsection"
     link: webinars
 
+  - title: "Events"
+    type: "subsection"
+    link: meetings
+
   - title: "Team"
     type: "subsection"
     link: team
