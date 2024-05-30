@@ -12,8 +12,3 @@ author: Sina Mansour L.
 
 # Build settings
 markdown: kramdown
-kramdown:
-  input: GFM
-  link_attributes:
-    target: "_blank"
-    rel: "noopener noreferrer"
