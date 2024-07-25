@@ -1,5 +1,21 @@
 webinars:
 
+  - title: "The Current Funding Landscape for Neuroimaging Research in Australia"
+    year: 2024
+    speakers:
+      - name: A/Prof. James Mac Shine
+        link: https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/mac-shine.html
+      - name: Dr. Cassandra Wannan
+        link: https://findanexpert.unimelb.edu.au/profile/688090-cassandra-wannan
+      - name: Dr. James Pang
+        link: https://research.monash.edu/en/persons/james-pang
+      - name: Dr. Remika Mito
+        link: https://findanexpert.unimelb.edu.au/profile/752094-remika-mito
+      - name: A/Prof. Jess Taubert
+        link: https://psychology.uq.edu.au/profile/10567/jess-taubert
+    videoID: Sv5pEharlII
+    idx: "2024_1"
+
   - title: "Best Practices in EEG and MEG"
     year: 2023
     speakers:
@@ -10,6 +26,7 @@ webinars:
       - name: Dr. Sophie Lin
         link: https://findanexpert.unimelb.edu.au/profile/861182-sophie-lin
     videoID: YB2i52ei-5o
+    idx: "2023_3"
 
   - title: "Brain Ageing"
     year: 2023
@@ -21,6 +38,7 @@ webinars:
       - name: Dr. Claire Kelly
         link: https://www.linkedin.com/in/dr-claire-kelly/?originalSubdomain=au
     videoID: C0EfaIm6DLo
+    idx: "2023_2"
 
   - title: "New Beginnings"
     year: 2023
@@ -32,6 +50,7 @@ webinars:
       - name: Dr. Kelly Garner
         link: https://www.unsw.edu.au/staff/kelly-grace-garner
     videoID: HmWx8sDDa90
+    idx: "2023_1"
 
   - title: "Normative Modelling & Single-Subject Analysis"
     year: 2022
@@ -43,6 +62,7 @@ webinars:
       - name: Dr. Warda Syeda
         link: https://findanexpert.unimelb.edu.au/profile/687479-warda-syeda
     videoID: V5W7uFQjNDY
+    idx: "2022_2"
 
   - title: "How to be successful in grant writing"
     year: 2022
@@ -56,6 +76,7 @@ webinars:
       - name: Dr. Hannah Filmer
         link: https://researchers.uq.edu.au/researcher/2738
     videoID: rIAIP7tuy38
+    idx: "2022_1"
 
   - title: "Working with Data Collections"
     year: 2021
@@ -71,6 +92,7 @@ webinars:
       - name: Dr. Aaron Warren
         link: https://www.linkedin.com/in/aaron-warren-0a8117251/
     videoID: mFjcjuBK_zs
+    idx: "2021_4"
 
   - title: "Brain Imaging Data Structure (BIDS)"
     year: 2021
@@ -84,6 +106,7 @@ webinars:
       - name: Dr. Chao Suo
         link: https://www.linkedin.com/in/dr-chao-suo/?originalSubdomain=au
     videoID: m7vEHGpqQIw
+    idx: "2021_3"
 
   - title: "Methods and considerations for correlating brain and behaviour"
     year: 2021
@@ -97,6 +120,7 @@ webinars:
       - name: Dr. Jeggan Tiego
         link: https://scholar.google.com.au/citations?user=-dWURD8AAAAJ&hl=en
     videoID: wdUokUe_9tY
+    idx: "2021_2"
 
   - title: "What comes after PHD?"
     year: 2021
@@ -116,3 +140,4 @@ webinars:
       - name: Prof. Michael Breakspear
         link: https://www.newcastle.edu.au/profile/michael-breakspear
     videoID: oZwXWDl1fUU
+    idx: "2021_1"

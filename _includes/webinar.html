@@ -1,4 +1,4 @@
-<section id="team">
+<section id="webinars">
     <div class="container">
         <div class="row">
             <div class="col-lg-10 col-lg-offset-1 text-dark">
@@ -9,7 +9,7 @@
                 {% for webinar in site.data.archive.webinars %}
                 <div class="col-lg-12">
                     <div class="text-center">
-                        <p class="h2">{{ webinar.title }}</p>
+                        <p class="h2" id="{{ webinar.idx }}">{{ webinar.title }}</p>
                         <p class="h4">{{ webinar.year }}</p>
                         <p class="h5">Speakers:</p>
                         {% for speaker in webinar.speakers %}
