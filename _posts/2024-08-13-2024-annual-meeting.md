@@ -1,5 +1,5 @@
 ---
-title: "Annual Meeting"
+title: "2024 Annual Meeting"
 date: 2024-08-13
 layout: post
 image: meeting.jpg

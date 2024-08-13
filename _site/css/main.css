@@ -157,3 +157,7 @@ hr.secondary-faded { border-color: #F5EEB6; }
 .carousel-control-prev { position: absolute; top: 50%; transform: translate(50%, -50%); left: 10px; color: #DDD; }
 
 .carousel-control-next { position: absolute; top: 50%; transform: translate(-50%, -50%); right: 10px; color: #DDD; }
+
+.post-summary { border-color: #078F65; border-width: 1px; border-style: solid none; padding: 5px 25px; }
+
+.post-meta { display: flex; justify-content: space-between; align-items: top; margin-bottom: 10px; }

@@ -510,3 +510,19 @@ hr.secondary-faded {
     right: 10px;
     color: #DDD;
 }
+
+// for posts
+
+.post-summary {
+    border-color: $theme-primary;
+    border-width: 1px;
+    border-style: solid none;
+    padding: 5px 25px;
+}
+
+.post-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: top;
+    margin-bottom: 10px;
+}
