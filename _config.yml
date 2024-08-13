@@ -12,3 +12,6 @@ author: Sina Mansour L.
 
 # Build settings
 markdown: kramdown
+
+# Permalink structure for posts
+permalink: /posts/:title/
