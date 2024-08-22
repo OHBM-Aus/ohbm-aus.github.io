@@ -14,7 +14,8 @@ We are excited to announce the **2024 Annual OHBM Australia Meeting**, in collab
 Our goal is to unite the community of researchers who apply computational, mathematical, and imaging methods in neuroscience.
 
 <hr>
-## Abstract Submission
+
+## [**Abstract Submission**](https://docs.google.com/forms/d/e/1FAIpQLSc9ZU5nGEFbKiuhrkvABj3M6OIB8jujNyEOCSgOm1OqPheUVg/viewform?usp=sf_link)
 
 Abstract submission is now open. <span style="color: red;">The submission deadline is **September 13th, 5 PM AEDT**.</span> Accepted abstracts will be featured in the poster session, and the ECR Committee will select some for ECR talks.
 
@@ -24,6 +25,12 @@ Abstract submission is now open. <span style="color: red;">The submission deadli
         &nbsp; Submit an abstract
     </a>
 </div>
+
+<hr>
+
+## [**Registration**](https://shop.monash.edu/joint-meeting-ohbm-australia-maths-in-the-brain-and-brainhack-australia-2024-melbourne.html)
+
+Please register for this event from [**here.**](https://shop.monash.edu/joint-meeting-ohbm-australia-maths-in-the-brain-and-brainhack-australia-2024-melbourne.html)
 
 <hr>
 
