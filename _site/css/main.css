@@ -17,6 +17,8 @@ p { font-size: 16px; line-height: 1.5; margin-bottom: 20px; }
 
 .bg-dark { background-color: #4d5751; color: white; }
 
+.bg-bright { background-color: #F2F2F2; color: #4d5751; }
+
 .text-faded { color: rgba(255, 255, 255, 0.7); }
 
 section { padding: 100px 0; }
@@ -161,3 +163,9 @@ hr.secondary-faded { border-color: #F5EEB6; }
 .post-summary { border-color: #078F65; border-width: 1px; border-style: solid none; padding: 5px 25px; }
 
 .post-meta { display: flex; justify-content: space-between; align-items: top; margin-bottom: 10px; }
+
+#sponsors { padding: 50px 0; }
+
+.sponsor-logo { height: 150px; /* Adjust height as needed */ display: flex; align-items: center; justify-content: center; }
+
+.sponsor-logo img { max-height: 100%; max-width: 100%; height: auto; width: auto; }

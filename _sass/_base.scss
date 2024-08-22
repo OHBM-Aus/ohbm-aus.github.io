@@ -58,6 +58,11 @@ p {
     color: white;
 }
 
+.bg-bright {
+    background-color: $theme-bright;
+    color: $theme-dark;
+}
+
 .text-faded {
     color: rgba(white, .7);
 }
@@ -525,4 +530,22 @@ hr.secondary-faded {
     justify-content: space-between;
     align-items: top;
     margin-bottom: 10px;
+}
+
+#sponsors {
+    padding: 50px 0;
+}
+
+.sponsor-logo {
+    height: 150px; /* Adjust height as needed */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sponsor-logo img {
+    max-height: 100%;
+    max-width: 100%;
+    height: auto;
+    width: auto;
 }
