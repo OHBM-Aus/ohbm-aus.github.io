@@ -30,3 +30,32 @@ Abstract submission is now open. <span style="color: red;">The submission deadli
 **Stay tuned to this webpage for updates on registration details and speaker announcements, which will be added in the coming weeks.**
 
 We look forward to your participation and contributions. For any questions or additional information, please feel free to [contact us](mailto:ohbm.aus@gmail.com).
+
+
+## **Members of the committee**
+
+*(in alphabetical order)*
+
+### Organising Committee
+
+- Alex Fornito
+- Sharna Jamadar
+- Brandon Munn
+- Adeel Razi (Chair)
+- Kylie Seymour
+- Mac Shine
+- Warda Syeda 
+- Nao Tsuchiya
+- Andrew Zalesky
+
+### ECR Organising Committee
+
+- Matthew Greaves
+- Alexander Holmes
+- Moein Khajehnejad
+- Xuqian Li
+- Sina Mansour L.
+- Leonardo Novelli
+- James Pang
+- Natasha Taylor
+- Priscila Thalenberg Levi
