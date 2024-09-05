@@ -15,6 +15,23 @@ Our goal is to unite the community of researchers who apply computational, mathe
 
 <hr>
 
+## **Keynotes & Invited Talks**
+
+### Keynotes:
+
+- [**Prof. Zdenka Kuncic**](https://www.sydney.edu.au/science/about/our-people/academic-staff/zdenka-kuncic.html)
+- [**Prof. Fernando Calamante**](https://www.sydney.edu.au/research/our-researchers/academic-staff/fernando-calamante.html)
+
+### Invited Speakers:
+
+- [**A/Prof. Mac Shine**](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/mac-shine.html)
+- [**Dr. Lena Oestreich**](https://about.uq.edu.au/experts/14495)
+- [**Dr. Ben Fulcher**](https://www.sydney.edu.au/science/about/our-people/academic-staff/ben-fulcher.html)
+- [**A/Prof. Sharna Jamadar**](https://research.monash.edu/en/persons/sharna-jamadar)
+- [**Dr. Andre Peterson**](https://findanexpert.unimelb.edu.au/profile/186785-andre-peterson)
+
+<hr>
+
 ## [**Abstract Submission**](https://docs.google.com/forms/d/e/1FAIpQLSc9ZU5nGEFbKiuhrkvABj3M6OIB8jujNyEOCSgOm1OqPheUVg/viewform?usp=sf_link)
 
 Abstract submission is now open. <span style="color: red;">The submission deadline is **September 13th, 5 PM AEDT**.</span> Accepted abstracts will be featured in the poster session, and the ECR Committee will select some for ECR talks.
@@ -31,6 +48,13 @@ Abstract submission is now open. <span style="color: red;">The submission deadli
 ## [**Registration**](https://shop.monash.edu/joint-meeting-ohbm-australia-maths-in-the-brain-and-brainhack-australia-2024-melbourne.html)
 
 Please register for this event from [**here.**](https://shop.monash.edu/joint-meeting-ohbm-australia-maths-in-the-brain-and-brainhack-australia-2024-melbourne.html)
+
+<div style="text-align: center; margin: 20px;">
+    <a href="https://shop.monash.edu/joint-meeting-ohbm-australia-maths-in-the-brain-and-brainhack-australia-2024-melbourne.html" target="_blank" class="btn btn-primary btn-xl page-scroll">
+        <i class="fa-solid fa-arrow-pointer"></i>
+        &nbsp; Register Now!
+    </a>
+</div>
 
 <hr>
 
