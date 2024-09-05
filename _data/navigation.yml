@@ -15,6 +15,10 @@ nav:
     type: "subsection"
     link: meetings
 
+  - title: "Awards"
+    type: "subsection"
+    link: awards
+
   - title: "Team"
     type: "subsection"
     link: team
