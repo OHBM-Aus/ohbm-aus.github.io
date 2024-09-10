@@ -5,17 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.title }}: {{ site.description }}">
     <meta name="author" content="{{ site.author }}">
-    <meta name="keywords" content="OHBM Australia, neuroimaging, human brain mapping, neuroscience, brain research, OHBM">
+    <meta name="keywords" content="OHBM Australia, neuroimaging, human brain mapping, neuroscience, brain research, OHBM, australia, australian, community, australian chapter, brain mapping">
     <!-- open graph meta tags -->
     <meta property="og:title" content="{{ site.title }}{% if page.title != 'Index' %}: {{ page.title }}{% endif %}">
-    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:description" content="{{ site.title }}: {{ site.description }}">
     <meta property="og:url" content="{{ site.url }}">
     <meta property="og:image" content="{{ site.url }}/img/logo_text.png">
     <meta property="og:type" content="website" />
     <!-- twitter meta tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ site.title }}{% if page.title != 'Index' %}: {{ page.title }}{% endif %}">
-    <meta name="twitter:description" content="{{ site.description }}">
+    <meta name="twitter:description" content="{{ site.title }}: {{ site.description }}">
     <meta name="twitter:url" content="{{ site.url }}">
     <meta name="twitter:image" content="{{ site.url }}/img/logo_text.png">
     <meta name="twitter:site" content="@OHBM_Australia">
@@ -25,6 +25,9 @@
     {% if page.title != "Index" %} {{ site.title }} &bull; {{ page.title }}
     {% else %} {{ site.title }} &bull; {{ site.description }}
     {% endif %}</title>
+
+    <!-- Canonical tag as recommended by Google -->
+    <link rel="canonical" href="{{ site.url }}{{ page.url | relative_url }}">
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css">
