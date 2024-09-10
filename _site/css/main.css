@@ -168,4 +168,4 @@ hr.secondary-faded { border-color: #F5EEB6; }
 
 .sponsor-logo { height: 150px; /* Adjust height as needed */ display: flex; align-items: center; justify-content: center; }
 
-.sponsor-logo img { max-height: 100%; max-width: 100%; height: auto; width: auto; }
+.sponsor-logo img { max-height: 80px; max-width: 100%; height: auto; width: auto; }
