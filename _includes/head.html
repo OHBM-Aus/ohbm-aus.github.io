@@ -6,10 +6,20 @@
     <meta name="description" content="{{ site.title }}: {{ site.description }}">
     <meta name="author" content="{{ site.author }}">
     <meta name="keywords" content="OHBM Australia, neuroimaging, human brain mapping, neuroscience, brain research, OHBM">
-    <meta property="og:title" content="{{ site.title }}">
+    <!-- open graph meta tags -->
+    <meta property="og:title" content="{{ site.title }}{% if page.title != 'Index' %}: {{ page.title }}{% endif %}">
     <meta property="og:description" content="{{ site.description }}">
     <meta property="og:url" content="{{ site.url }}">
-    <meta property="og:image" content="/img/logo_text.png">
+    <meta property="og:image" content="{{ site.url }}/img/logo_text.png">
+    <meta property="og:type" content="website" />
+    <!-- twitter meta tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ site.title }}{% if page.title != 'Index' %}: {{ page.title }}{% endif %}">
+    <meta name="twitter:description" content="{{ site.description }}">
+    <meta name="twitter:url" content="{{ site.url }}">
+    <meta name="twitter:image" content="{{ site.url }}/img/logo_text.png">
+    <meta name="twitter:site" content="@OHBM_Australia">
+    <meta name="twitter:creator" content="@OHBM_Australia">
 
     <title>
     {% if page.title != "Index" %} {{ site.title }} &bull; {{ page.title }}
