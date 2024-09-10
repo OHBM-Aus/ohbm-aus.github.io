@@ -20,3 +20,7 @@ permalink: /posts/:title/
 collections:
   pages:
     output: true
+
+# Jekyll plugins
+plugins:
+  - jekyll-sitemap

@@ -3,12 +3,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{{ site.description }}">
+    <meta name="description" content="{{ site.title }}: {{ site.description }}">
     <meta name="author" content="{{ site.author }}">
+    <meta name="keywords" content="OHBM Australia, neuroimaging, human brain mapping, neuroscience, brain research, OHBM">
+    <meta property="og:title" content="{{ site.title }}">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:url" content="{{ site.url }}">
+    <meta property="og:image" content="/img/logo_text.png">
 
     <title>
-    {% if page.title %}{{ page.title }} &bull; {{ site.title }}
-    {% else %}{{ site.title }} &bull; {{ site.description }}
+    {% if page.title != "Index" %} {{ site.title }} &bull; {{ page.title }}
+    {% else %} {{ site.title }} &bull; {{ site.description }}
     {% endif %}</title>
 
     <!-- Bootstrap Core CSS -->
