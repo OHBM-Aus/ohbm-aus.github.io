@@ -69,7 +69,7 @@ Applications will be evaluated based on the following criteria:
 
 Applicants must submit the following components:
 
-- A self-nomination letter of no more than 7500 words outlining the candidate’s contributions, leadership, and impact in the field.
+- A self-nomination letter of no more than 750 words outlining the candidate’s contributions, leadership, and impact in the field.
 - A detailed curriculum vitae (CV) not exceeding two pages, highlighting academic qualifications, positions held, significant awards, fellowships, and grants.
 - A list of the top 5 publications, with a brief description of each including applicant’s contribution, and any recognition received (e.g., citations, editorial commentaries, etc.).
 - A statement detailing any career disruptions (if applicable).
