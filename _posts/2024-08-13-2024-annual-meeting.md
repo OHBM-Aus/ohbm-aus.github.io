@@ -21,6 +21,7 @@ Our goal is to unite the community of researchers who apply computational, mathe
 
 - [**Prof. Zdenka Kuncic**](https://www.sydney.edu.au/science/about/our-people/academic-staff/zdenka-kuncic.html)
 - [**Prof. Fernando Calamante**](https://www.sydney.edu.au/research/our-researchers/academic-staff/fernando-calamante.html)
+- [**Dr. Andrew Phillips**](https://scholar.google.com/citations?hl=en&user=w1fBCWIAAAAJ&view_op=list_works)
 
 ### Invited Speakers:
 
