@@ -25,11 +25,17 @@ Our goal is to unite the community of researchers who apply computational, mathe
 
 ### Invited Speakers:
 
-- [**A/Prof. Mac Shine**](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/mac-shine.html)
-- [**Dr. Lena Oestreich**](https://about.uq.edu.au/experts/14495)
 - [**Dr. Ben Fulcher**](https://www.sydney.edu.au/science/about/our-people/academic-staff/ben-fulcher.html)
-- [**A/Prof. Sharna Jamadar**](https://research.monash.edu/en/persons/sharna-jamadar)
 - [**Dr. Andre Peterson**](https://findanexpert.unimelb.edu.au/profile/186785-andre-peterson)
+- [**Dr. Lena Oestreich**](https://about.uq.edu.au/experts/14495)
+- [**A/Prof. Mac Shine**](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/mac-shine.html)
+- [**A/Prof. Sharna Jamadar**](https://research.monash.edu/en/persons/sharna-jamadar)
+- [**A/Prof. Levin Kuhlmann**](https://research.monash.edu/en/persons/levin-kuhlmann)
+- [**Prof. Andrew Zlalesky**](https://findanexpert.unimelb.edu.au/profile/24599-andrew-zalesky)
+- [**Dr. Trang Cao**](https://research.monash.edu/en/persons/trang-cao)
+- [**Dr. Nikitas Koussis**](https://www.newcastle.edu.au/profile/nikitas-koussis)
+
+**Stay tuned for updates! More invited speakers will be announced soon.**
 
 <hr>
 
