@@ -41,7 +41,7 @@ Our goal is to unite the community of researchers who apply computational, mathe
 
 ## [**Abstract Submission**](https://docs.google.com/forms/d/e/1FAIpQLSc9ZU5nGEFbKiuhrkvABj3M6OIB8jujNyEOCSgOm1OqPheUVg/viewform?usp=sf_link)
 
-Abstract submission is now open. <span style="color: red;">The submission deadline is **September 13th, 5 PM AEDT**.</span> Accepted abstracts will be featured in the poster session, and the ECR Committee will select some for ECR talks.
+Abstract submission is now open. <span style="color: red;">The submission deadline is **September 20th, 5 PM AEDT**.</span> Accepted abstracts will be featured in the poster session, and the ECR Committee will select some for ECR talks.
 
 <div style="text-align: center; margin: 20px;">
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSc9ZU5nGEFbKiuhrkvABj3M6OIB8jujNyEOCSgOm1OqPheUVg/viewform?usp=sf_link" target="_blank" class="btn btn-primary btn-xl page-scroll">
@@ -54,7 +54,7 @@ Abstract submission is now open. <span style="color: red;">The submission deadli
 
 ## [**Registration**](https://shop.monash.edu/joint-meeting-ohbm-australia-maths-in-the-brain-and-brainhack-australia-2024-melbourne.html)
 
-Please register for this event from [**here.**](https://shop.monash.edu/joint-meeting-ohbm-australia-maths-in-the-brain-and-brainhack-australia-2024-melbourne.html)
+Please register for this event from [**here.**](https://shop.monash.edu/joint-meeting-ohbm-australia-maths-in-the-brain-and-brainhack-australia-2024-melbourne.html) <span style="color: red;">The registration closes on **September 30th, 5 PM AEDT**.</span>
 
 <div style="text-align: center; margin: 20px;">
     <a href="https://shop.monash.edu/joint-meeting-ohbm-australia-maths-in-the-brain-and-brainhack-australia-2024-melbourne.html" target="_blank" class="btn btn-primary btn-xl page-scroll">
