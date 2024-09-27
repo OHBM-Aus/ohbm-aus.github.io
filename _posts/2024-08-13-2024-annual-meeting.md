@@ -22,6 +22,7 @@ Our goal is to unite the community of researchers who apply computational, mathe
 - [**Prof. Zdenka Kuncic**](https://www.sydney.edu.au/science/about/our-people/academic-staff/zdenka-kuncic.html)
 - [**Prof. Fernando Calamante**](https://www.sydney.edu.au/research/our-researchers/academic-staff/fernando-calamante.html)
 - [**Dr. Andrew Phillips**](https://scholar.google.com/citations?hl=en&user=w1fBCWIAAAAJ&view_op=list_works)
+- [**Prof. Lianne Schmaal**](https://findanexpert.unimelb.edu.au/profile/787971-lianne-schmaal)
 
 ### Invited Speakers:
 
@@ -34,6 +35,7 @@ Our goal is to unite the community of researchers who apply computational, mathe
 - [**Prof. Andrew Zlalesky**](https://findanexpert.unimelb.edu.au/profile/24599-andrew-zalesky)
 - [**Dr. Trang Cao**](https://research.monash.edu/en/persons/trang-cao)
 - [**Dr. Nikitas Koussis**](https://www.newcastle.edu.au/profile/nikitas-koussis)
+- [**Dr. Mahsa Salehi**](https://research.monash.edu/en/persons/mahsa-salehi)
 
 **Stay tuned for updates! More invited speakers will be announced soon.**
 
