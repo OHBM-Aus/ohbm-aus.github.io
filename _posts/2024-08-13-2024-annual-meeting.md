@@ -56,7 +56,7 @@ Abstract submission is now open. <span style="color: red;">The submission deadli
 
 ## [**Registration**](https://shop.monash.edu/joint-meeting-ohbm-australia-maths-in-the-brain-and-brainhack-australia-2024-melbourne.html)
 
-Please register for this event from [**here.**](https://shop.monash.edu/joint-meeting-ohbm-australia-maths-in-the-brain-and-brainhack-australia-2024-melbourne.html) <span style="color: red;">The registration closes on **September 30th, 5 PM AEDT**.</span>
+Please register for this event from [**here.**](https://shop.monash.edu/joint-meeting-ohbm-australia-maths-in-the-brain-and-brainhack-australia-2024-melbourne.html) <span style="color: red;">The registration closes on **October 7th, 5 PM AEDT**.</span>
 
 <div style="text-align: center; margin: 20px;">
     <a href="https://shop.monash.edu/joint-meeting-ohbm-australia-maths-in-the-brain-and-brainhack-australia-2024-melbourne.html" target="_blank" class="btn btn-primary btn-xl page-scroll">

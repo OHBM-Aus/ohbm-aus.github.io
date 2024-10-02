@@ -36,4 +36,4 @@ We have created two new awards:
 
 Applications should be submitted as a single PDF to [**ohbm.aus@gmail.com**](mailto:ohbm.aus@gmail.com).
 
-The deadline for all award applications is <span style="color: red;">**30 September 2024**</span>.
+The deadline for all award applications is <span style="color: red;">**4 October 2024**</span>.
