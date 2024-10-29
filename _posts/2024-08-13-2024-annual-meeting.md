@@ -33,11 +33,25 @@ Our goal is to unite the community of researchers who apply computational, mathe
 - [**A/Prof. Sharna Jamadar**](https://research.monash.edu/en/persons/sharna-jamadar)
 - [**A/Prof. Levin Kuhlmann**](https://research.monash.edu/en/persons/levin-kuhlmann)
 - [**Prof. Andrew Zlalesky**](https://findanexpert.unimelb.edu.au/profile/24599-andrew-zalesky)
+- [**Prof. Leigh Johnston**](https://findanexpert.unimelb.edu.au/profile/15352-leigh-johnston)
 - [**Dr. Trang Cao**](https://research.monash.edu/en/persons/trang-cao)
+- [**Matthew Greaves**](https://www.linkedin.com/in/matthew-d-greaves/?originalSubdomain=au)
 - [**Dr. Nikitas Koussis**](https://www.newcastle.edu.au/profile/nikitas-koussis)
 - [**Dr. Mahsa Salehi**](https://research.monash.edu/en/persons/mahsa-salehi)
+- [**Dr. Margaret Moore**](https://about.uq.edu.au/experts/38694)
+- [**Dr. Devon Stoliker**](https://lens.monash.edu/@devon-stoliker)
+- [**Dr. Kerstin Pannek**](https://about.uq.edu.au/experts/32127)
+- [**A/Prof. Chris French**](https://findanexpert.unimelb.edu.au/profile/179136-chris-french)
+- [**Prof. Katherine Johnson**](https://findanexpert.unimelb.edu.au/profile/340667-katherine-johnson)
 
-**Stay tuned for updates! More invited speakers will be announced soon.**
+### ECR flash talks:
+- [**Dr. Giulia Baracchini**](https://scholar.google.com/citations?user=ukWtjk0AAAAJ&hl=it)
+- [**Dr. Sina Mansour L.**](https://sina-mansour.github.io/)
+- [**Isabella Goodwin**](https://psychologicalsciences.unimelb.edu.au/research/msps-research-groups/C2NP/lab/people/uom-team/isabella-goodwin)
+- [**Mehul Gajwani**](https://scholar.google.com/citations?user=g5UaCSwAAAAJ&hl=en)
+- [**Jieru Liao**](https://www.sydney.edu.au/engineering/about/our-people/research-students/jieru-liao-553.html)
+- [**Dr. Hamid Karimi-Rouzbahani**](https://qbi.uq.edu.au/profile/19561/hamid-karimi-rouzbahani)
+
 
 <hr>
 
