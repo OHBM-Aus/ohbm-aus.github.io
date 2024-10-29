@@ -52,19 +52,49 @@ Our goal is to unite the community of researchers who apply computational, mathe
 - [**Jieru Liao**](https://www.sydney.edu.au/engineering/about/our-people/research-students/jieru-liao-553.html)
 - [**Dr. Hamid Karimi-Rouzbahani**](https://qbi.uq.edu.au/profile/19561/hamid-karimi-rouzbahani)
 
+<hr>
 
+## **Poster Sessions**
+
+The poster sessions are organized into two themes, each on a separate day. Lists of posters for each session are available below:
+
+- **Session 1: Computational Neuroscience**  
+  *Thursday, 7 November 2024*  
+
+  <button class="btn btn-primary" data-toggle="collapse" data-target="#session1" aria-expanded="false" aria-controls="session1">
+    <i class="fa-solid fa-glasses"></i> View poster list
+  </button>
+  <a href="/files/2024_OHBM_MitB_poster_list_Day_1.pdf" target="_blank">
+    <button class="btn btn-primary" href="files/2024_OHBM_MitB_poster_list_Day_1.pdf">
+      <i class="fa-solid fa-download"></i> Download poster list
+    </button>
+  </a>
+  <div class="collapse" id="session1">
+    <iframe src="/files/2024_OHBM_MitB_poster_list_Day_1.pdf" width="100%" height="600px"></iframe>
+  </div>
+
+
+- **Session 2: Neuroimaging**  
+  *Friday, 8 November 2024*  
+
+  <button class="btn btn-primary" data-toggle="collapse" data-target="#session2" aria-expanded="false" aria-controls="session2">
+    <i class="fa-solid fa-glasses"></i> View poster list
+  </button>
+  <a href="/files/2024_OHBM_MitB_poster_list_Day_1.pdf" target="_blank">
+    <button class="btn btn-primary" href="files/2024_OHBM_MitB_poster_list_Day_2.pdf">
+      <i class="fa-solid fa-download"></i> Download poster list
+    </button>
+  </a>
+  <div class="collapse" id="session2">
+    <iframe src="/files/2024_OHBM_MitB_poster_list_Day_2.pdf" width="100%" height="600px"></iframe>
+  </div>
+
+<br>
 <hr>
 
 ## [**Abstract Submission**](https://docs.google.com/forms/d/e/1FAIpQLSc9ZU5nGEFbKiuhrkvABj3M6OIB8jujNyEOCSgOm1OqPheUVg/viewform?usp=sf_link)
 
-Abstract submission is now open. <span style="color: red;">The submission deadline is **September 20th, 5 PM AEDT**.</span> Accepted abstracts will be featured in the poster session, and the ECR Committee will select some for ECR talks.
-
-<div style="text-align: center; margin: 20px;">
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSc9ZU5nGEFbKiuhrkvABj3M6OIB8jujNyEOCSgOm1OqPheUVg/viewform?usp=sf_link" target="_blank" class="btn btn-primary btn-xl page-scroll">
-        <i class="fa-solid fa-star"></i>
-        &nbsp; Submit an abstract
-    </a>
-</div>
+<span style="color: red;">Abstract submission is closed.</span>
 
 <hr>
 
