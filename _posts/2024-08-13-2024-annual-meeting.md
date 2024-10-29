@@ -39,7 +39,7 @@ Our goal is to unite the community of researchers who apply computational, mathe
 - [**Dr. Nikitas Koussis**](https://www.newcastle.edu.au/profile/nikitas-koussis)
 - [**Dr. Mahsa Salehi**](https://research.monash.edu/en/persons/mahsa-salehi)
 - [**Dr. Margaret Moore**](https://about.uq.edu.au/experts/38694)
-- [**Dr. Devon Stoliker**](https://lens.monash.edu/@devon-stoliker)
+- [**Dr. Nigel Rogasch**](https://researchers.adelaide.edu.au/profile/nigel.rogasch)
 - [**Dr. Kerstin Pannek**](https://about.uq.edu.au/experts/32127)
 - [**A/Prof. Chris French**](https://findanexpert.unimelb.edu.au/profile/179136-chris-french)
 - [**Prof. Katherine Johnson**](https://findanexpert.unimelb.edu.au/profile/340667-katherine-johnson)
