@@ -15,6 +15,20 @@ Our goal is to unite the community of researchers who apply computational, mathe
 
 <hr>
 
+## **Program at a glance**
+
+
+<div style="height: 60vh; position: relative; padding-top: 10px; padding-bottom: 10px;">
+  <iframe src="/files/2024-Program.pdf" width="100%" height="100%"></iframe>
+</div>
+<a href="/files/2024-Program.pdf" target="_blank">
+  <button class="btn btn-primary btn-xl" href="files/2024-Program.pdf">
+    <i class="fa-solid fa-download"></i> Download 2024 program
+  </button>
+</a>
+
+<hr>
+
 ## **Keynotes & Invited Talks**
 
 ### Keynotes:
@@ -38,7 +52,6 @@ Our goal is to unite the community of researchers who apply computational, mathe
 - [**Matthew Greaves**](https://www.linkedin.com/in/matthew-d-greaves/?originalSubdomain=au)
 - [**Dr. Nikitas Koussis**](https://www.newcastle.edu.au/profile/nikitas-koussis)
 - [**Dr. Mahsa Salehi**](https://research.monash.edu/en/persons/mahsa-salehi)
-- [**Dr. Margaret Moore**](https://about.uq.edu.au/experts/38694)
 - [**Dr. Nigel Rogasch**](https://researchers.adelaide.edu.au/profile/nigel.rogasch)
 - [**Dr. Kerstin Pannek**](https://about.uq.edu.au/experts/32127)
 - [**A/Prof. Chris French**](https://findanexpert.unimelb.edu.au/profile/179136-chris-french)
@@ -111,7 +124,7 @@ Please register for this event from [**here.**](https://shop.monash.edu/joint-me
 
 <hr>
 
-**Stay tuned to this webpage for updates on registration details and speaker announcements, which will be added in the coming weeks.**
+**Stay tuned to this webpage for any updates.**
 
 We look forward to your participation and contributions. For any questions or additional information, please feel free to [contact us](mailto:ohbm.aus@gmail.com).
 
