@@ -61,4 +61,14 @@ document.addEventListener('DOMContentLoaded', function() {
             marker.classList.toggle('fa-minus');
         });
     });
+
+
+    const toast = document.getElementById("toast-notif");
+    toast.classList.add("toast-show");
+    setTimeout(closeToast, 5000);
 });
+
+function closeToast() {
+    const toast = document.getElementById("toast-notif");
+    toast.classList.remove("toast-show");
+}

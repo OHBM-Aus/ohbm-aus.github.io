@@ -69,7 +69,18 @@ Our goal is to unite the community of researchers who apply computational, mathe
 
 ## **Poster Sessions**
 
-The poster sessions are organized into two themes, each on a separate day. Lists of posters for each session are available below:
+The poster sessions are organized into two themes, each on a separate day.
+
+📢 **Notice** Poster presenters are advised to use <span style="color: magenta;">**A0 posters**</span>.
+
+<div id="toast-notif" class="toast-notification">
+    📢 Please note that poster presenters are advised to use A0 posters.
+    <button onclick="closeToast()" aria-label="Close">&times;</button>
+</div>
+
+Lists of posters for each session are available below:
+
+
 
 - **Session 1: Computational Neuroscience**  
   *Thursday, 7 November 2024*  

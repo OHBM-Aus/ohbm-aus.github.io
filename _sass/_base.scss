@@ -549,3 +549,38 @@ hr.secondary-faded {
     height: auto;
     width: auto;
 }
+
+/* Toast Notification Styles */
+.toast-notification {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    top: 160px;
+    right: 20px;
+    padding: 12px 16px;
+    background-color: #e8fce8;
+    color: #222;
+    font-size: 20px;
+    border-radius: 4px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+    opacity: 1;
+    transition: opacity 0.5s ease, visibility 0.5s ease;
+    z-index: 1000;
+    visibility: hidden; /* Initially hidden */
+}
+
+/* Close button */
+.toast-notification button {
+    background: none;
+    color: #eb1505;
+    border: none;
+    font-size: 26px;
+    cursor: pointer;
+}
+
+/* Show toast */
+.toast-show {
+    visibility: visible;
+    opacity: 1;
+}
