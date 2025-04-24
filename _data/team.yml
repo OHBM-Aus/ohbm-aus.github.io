@@ -1,70 +1,5 @@
 current:
 
-  - name: "Adeel Razi"
-    image: adeel.jpg
-    title: Chair
-    link: https://research.monash.edu/en/persons/adeel-razi
-    twitter: adeelrazi
-    scholar: VG3onZwAAAAJ
-
-  - name: "Kiley Seymour"
-    image: kiley.jpg
-    title: Secretary
-    link: https://profiles.uts.edu.au/kiley.seymour
-    scholar: BKcesVkAAAAJ
-    twitter: ???
-
-  - name: "Brandon Munn"
-    image: brandon.jpg
-    title: Treasurer
-    link: https://www.forefrontresearch.org/dr-brandon-munn/
-    twitter: DrBMunn
-    scholar: D9bDLRoAAAAJ
-
-  - name: "Thomas Shaw"
-    image: thomas.jpeg
-    title: ECR representative
-    link: https://researchers.uq.edu.au/researcher/30967
-    twitter: thomcat992
-    scholar: mA9ItOQAAAAJ
-
-  - name: "Eli Muller"
-    image: eli.jpeg
-    title: ECR representative
-    link: https://www.linkedin.com/in/eli-muller-31483a85/?originalSubdomain=au
-    twitter: eli_j_muller
-    scholar: h1gl_ckAAAAJ
-
-  - name: "Emillie Beyer"
-    image: emillie.jpg
-    title: Student representative
-    link: https://www.researchgate.net/profile/Emillie_Beyer
-    scholar: QEK8VuMAAAAJ
-    twitter: ???
-
-  - name: "Hollie Byrne"
-    image: hollie.jpg
-    title: Student representative
-    link: https://twitter.com/_HollieByrne
-    twitter: _holliebyrne
-    scholar: ???
-
-  - name: "Xuqian Li"
-    image: xuqian.jpeg
-    title: Student representative
-    link: https://clinical-research.centre.uq.edu.au/profile/7714/xuqian-li
-    twitter: XuqianLi997
-    scholar: lqQE6GcAAAAJ
-
-  - name: "Alexander Holmes"
-    image: alexander.jpg
-    title: Student representative
-    link: https://www.linkedin.com/in/alexander-holmes/
-    twitter: alexholmes_nsb
-    scholar: ???
-
-elect:
-
   - name: "Andrew Zalesky"
     image: andrew.jpeg
     title: Chair-Elect
@@ -114,7 +49,136 @@ elect:
     twitter: PriscilaTLevi
     scholar: ???
 
+elect:
+
+  - name: "Luca Cocchi"
+    image: l-cocchi.png
+    title: Chair-Elect
+    link: https://www.qimrb.edu.au/about/our-people/associate-professor-luca-cocchi
+    twitter: ???
+    scholar: 17pa5YgAAAAJ
+
+  - name: "Lisanne Jenkins"
+    image: Lisane.jpg
+    title: Secretary-Elect
+    link: https://research.monash.edu/en/persons/lisanne-jenkins
+    twitter: lisannej
+    scholar: HGEQsqgAAAAJ
+
+  - name: "Leonardo Novelli"
+    image: leonardo.jpg
+    title: Treasurer-Elect
+    link: https://research.monash.edu/en/persons/leonardo-novelli
+    twitter: novelli_leo
+    scholar: Ci5AsaQAAAAJ
+
+  - name: "Trang Ngoc Cao"
+    image: trang.jpeg
+    title: ECR representative
+    link: https://research.monash.edu/en/persons/trang-cao
+    twitter: ???
+    scholar: A0Td5P8AAAAJ
+
+  - name: "Stuart Oldham"
+    image: stuart.jpeg
+    title: ECR representative
+    link: https://www.mcri.edu.au/researcher-details/stuart-oldham
+    twitter: stuartjoldham
+    scholar: jj5dZe0AAAAJ
+
+  - name: "Saurabh Sonkusare"
+    image: Saurabh.jpg
+    title: ECR representative
+    link: https://www.newcastle.edu.au/profile/saurabh-sonkusare
+    twitter: srb_sonkusare
+    scholar: gI6y9AQAAAAJ
+
+  - name: "Mehul Gajwani"
+    image: Mehul.jpg
+    title: Student representative
+    link: https://www.monash.edu/medicine/psych/alex-fornito-lab/lab-members
+    twitter: m_gajwani
+    scholar: g5UaCSwAAAAJ
+
+  - name: "Carmen Zheng"
+    image: Carmen.jpeg
+    title: Student representative
+    link: https://www.researchgate.net/profile/Carmen_Zheng4
+    twitter: ???
+    scholar: ???
+
+  - name: "Muskan Khetan"
+    image: muskan.jpg
+    title: Student representative
+    link: https://www.linkedin.com/in/muskankhetan/?originalSubdomain=au
+    twitter: muskankhetan02
+    scholar: ???
+
 past:
+  - year: 2023-2024
+    team:
+      - name: "Adeel Razi"
+        image: adeel.jpg
+        title: Chair
+        link: https://research.monash.edu/en/persons/adeel-razi
+        twitter: adeelrazi
+        scholar: VG3onZwAAAAJ
+
+      - name: "Kiley Seymour"
+        image: kiley.jpg
+        title: Secretary
+        link: https://profiles.uts.edu.au/kiley.seymour
+        scholar: BKcesVkAAAAJ
+        twitter: ???
+
+      - name: "Brandon Munn"
+        image: brandon.jpg
+        title: Treasurer
+        link: https://www.forefrontresearch.org/dr-brandon-munn/
+        twitter: DrBMunn
+        scholar: D9bDLRoAAAAJ
+
+      - name: "Thomas Shaw"
+        image: thomas.jpeg
+        title: ECR representative
+        link: https://researchers.uq.edu.au/researcher/30967
+        twitter: thomcat992
+        scholar: mA9ItOQAAAAJ
+
+      - name: "Eli Muller"
+        image: eli.jpeg
+        title: ECR representative
+        link: https://www.linkedin.com/in/eli-muller-31483a85/?originalSubdomain=au
+        twitter: eli_j_muller
+        scholar: h1gl_ckAAAAJ
+
+      - name: "Emillie Beyer"
+        image: emillie.jpg
+        title: Student representative
+        link: https://www.researchgate.net/profile/Emillie_Beyer
+        scholar: QEK8VuMAAAAJ
+        twitter: ???
+
+      - name: "Hollie Byrne"
+        image: hollie.jpg
+        title: Student representative
+        link: https://twitter.com/_HollieByrne
+        twitter: _holliebyrne
+        scholar: ???
+
+      - name: "Xuqian Li"
+        image: xuqian.jpeg
+        title: Student representative
+        link: https://clinical-research.centre.uq.edu.au/profile/7714/xuqian-li
+        twitter: XuqianLi997
+        scholar: lqQE6GcAAAAJ
+
+      - name: "Alexander Holmes"
+        image: alexander.jpg
+        title: Student representative
+        link: https://www.linkedin.com/in/alexander-holmes/
+        twitter: alexholmes_nsb
+        scholar: ???
   - year: 2022-2023
     team:
 
