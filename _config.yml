@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://ohbm-aus.github.io" # the base hostname & protocol for your site
 
 twitter_username: OHBM_Australia
+bsky_username: ohbm-australia
 github_username: OHBM-Aus
 
 author: Sina Mansour L.
