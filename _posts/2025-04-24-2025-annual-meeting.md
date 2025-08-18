@@ -16,15 +16,36 @@ Our goal is to unite the community of researchers who apply computational, mathe
 <hr>
 
 
-## [**Abstract Submission**](https://docs.google.com/forms/d/e/1FAIpQLSc9ZU5nGEFbKiuhrkvABj3M6OIB8jujNyEOCSgOm1OqPheUVg/viewform?usp=sf_link)
+## [**Abstract Submission**](https://docs.google.com/forms/d/e/1FAIpQLSdszArExvkNl095vvFTJ_vRWdGxeN3X-LP3dPMTAoCAEvHF_Q/viewform?usp=sharing&ouid=105443068307516321703)
 
-<span style="color: gray;">Abstract submission has not opened yet.</span>
+Abstract submissions are now open! Due to space limitations, not all abstracts may be accepted.  
 
-<hr>
+**Accepted abstracts will be presented in the poster session, with a select few chosen by the ECR Committee for short talks.** All accepted abstracts will also be included in the official conference abstract compendium.  
 
-## [**Registration**](https://shop.monash.edu/joint-meeting-ohbm-australia-maths-in-the-brain-and-brainhack-australia-2024-melbourne.html)
+<span style="color: red; font-weight: bold;">Deadline: September 15th, 5 PM AEDT</span>  
 
-<span style="color: gray;">Registration has not opened yet.</span>
+<div style="text-align: center; margin: 20px;">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdszArExvkNl095vvFTJ_vRWdGxeN3X-LP3dPMTAoCAEvHF_Q/viewform?usp=sharing&ouid=105443068307516321703" target="_blank" class="btn btn-primary btn-xl page-scroll">
+        <i class="fa-solid fa-arrow-pointer"></i>
+        &nbsp; Submit Your Abstract
+    </a>
+</div>
+
+---
+
+## [**Registration**](https://ecommerce.unimelb.edu.au/ohbm-2025-australia-chapter-meeting-registration)
+
+Registration for the OHBM 2025 Australia Chapter Meeting is now open!  
+
+<span style="color: red; font-weight: bold;">Deadline: November 5th, 5 PM AEDT</span>  
+
+<div style="text-align: center; margin: 20px;">
+    <a href="https://ecommerce.unimelb.edu.au/ohbm-2025-australia-chapter-meeting-registration" target="_blank" class="btn btn-primary btn-xl page-scroll">
+        <i class="fa-solid fa-arrow-pointer"></i>
+        &nbsp; Register Now
+    </a>
+</div>
+
 
 <hr>
 
