@@ -31,6 +31,9 @@ Abstract submissions are now open! Due to space limitations, not all abstracts m
     </a>
 </div>
 
+**Disclaimer:** Abstracts should be submitted via the Google Form linked above (requires a Google account). If you do not have a Google account, please email your abstract to **ohbm.aus@gmail.com** with the subject line: *"Abstract submission for OHBM Australia 2025"*.
+
+
 ---
 
 ## [**Registration**](https://ecommerce.unimelb.edu.au/ohbm-2025-australia-chapter-meeting-registration)
