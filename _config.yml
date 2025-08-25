@@ -1,7 +1,7 @@
 # Site settings
 title: OHBM Australia
 email: ohbm.aus@gmail.com
-description: "Uniting the Australian neuroimaging community" # this means to ignore newlines until "baseurl:"
+description: "Uniting the Australian human brain mapping community" # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://ohbm-aus.github.io" # the base hostname & protocol for your site
 

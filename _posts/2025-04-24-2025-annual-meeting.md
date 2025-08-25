@@ -9,9 +9,9 @@ image: meeting.jpg
 
 We are excited to announce that the **2025 OHBM Australia Meeting** is scheduled for **Wednesday November 12, 2025**. The meeting will be hosted in Melbourne. Please lock in the date in your calendars!
 
-We look forward to welcoming you to Melbourne. **Further details about registration and submitting your work to the meeting will be provided closer to the dates.**
+We look forward to welcoming you to Melbourne.
 
-Our goal is to unite the community of researchers who apply computational, mathematical, and imaging methods in neuroscience.
+Our goal is to unite the Australian human brain mapping community.
 
 <hr>
 
