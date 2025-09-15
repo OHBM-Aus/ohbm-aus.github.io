@@ -22,7 +22,7 @@ Abstract submissions are now open! Due to space limitations, not all abstracts m
 
 **Accepted abstracts will be presented in the poster session, with a select few chosen by the ECR Committee for short talks.** All accepted abstracts will also be included in the official conference abstract compendium.  
 
-<span style="color: red; font-weight: bold;">Deadline: September 15th, 5 PM AEDT</span>  
+<span style="color: red; font-weight: bold;">Deadline: September 22nd, 5 PM AEDT</span>  
 
 <div style="text-align: center; margin: 20px;">
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSdszArExvkNl095vvFTJ_vRWdGxeN3X-LP3dPMTAoCAEvHF_Q/viewform?usp=sharing&ouid=105443068307516321703" target="_blank" class="btn btn-primary btn-xl page-scroll">
