@@ -23,7 +23,7 @@ Our goal is to unite the Australian human brain mapping community.
 </div>
 <a href="/files/OHBM_Australia_Chapter_2025_Meeting_Program.pdf" target="_blank">
   <button class="btn btn-primary btn-xl" href="files/OHBM_Australia_Chapter_2025_Meeting_Program.pdf">
-    <i class="fa-solid fa-download"></i> Download 2024 program
+    <i class="fa-solid fa-download"></i> Download 2025 program
   </button>
 </a>
 
