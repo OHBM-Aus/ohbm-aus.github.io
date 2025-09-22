@@ -15,6 +15,20 @@ Our goal is to unite the Australian human brain mapping community.
 
 <hr>
 
+## **Program at a glance**
+
+
+<div style="height: 60vh; position: relative; padding-top: 10px; padding-bottom: 10px;">
+  <iframe src="/files/OHBM_Australia_Chapter_2025_Meeting_Program.pdf" width="100%" height="100%"></iframe>
+</div>
+<a href="/files/OHBM_Australia_Chapter_2025_Meeting_Program.pdf" target="_blank">
+  <button class="btn btn-primary btn-xl" href="files/OHBM_Australia_Chapter_2025_Meeting_Program.pdf">
+    <i class="fa-solid fa-download"></i> Download 2024 program
+  </button>
+</a>
+
+<hr>
+
 
 ## [**Abstract Submission**](https://docs.google.com/forms/d/e/1FAIpQLSdszArExvkNl095vvFTJ_vRWdGxeN3X-LP3dPMTAoCAEvHF_Q/viewform?usp=sharing&ouid=105443068307516321703)
 
