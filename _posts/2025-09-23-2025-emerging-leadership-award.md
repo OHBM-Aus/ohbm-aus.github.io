@@ -1,6 +1,6 @@
 ---
 title: "2025 Emerging Leadership Award"
-date: 2024-09-05
+date: 2025-09-23
 layout: post
 image: meeting.jpg
 ---
