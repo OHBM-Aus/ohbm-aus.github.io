@@ -5,9 +5,11 @@ layout: post
 image: meeting.jpg
 ---
 
-## [**Call for Nominations: OHBM Australia 2027 Executive Committee**](/team)
+## **Call for Nominations**:
 
-We are now accepting **self-nominations** for the OHBM Australia 2027 Executive Committee.  
+## [**OHBM Australia 2026--2027 Executive Committee**](/team)
+
+We are now accepting **self-nominations** for the OHBM Australia 2026--2027 Executive Committee.  
 
 Open positions include:  
 - Chair  
