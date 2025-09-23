@@ -32,11 +32,13 @@ Our goal is to unite the Australian human brain mapping community.
 
 ## [**Abstract Submission**](https://docs.google.com/forms/d/e/1FAIpQLSdszArExvkNl095vvFTJ_vRWdGxeN3X-LP3dPMTAoCAEvHF_Q/viewform?usp=sharing&ouid=105443068307516321703)
 
-Abstract submissions are now open! Due to space limitations, not all abstracts may be accepted.  
+Abstract submissions are now open! Due to space limitations, not all abstracts may be accepted.
 
-**Accepted abstracts will be presented in the poster session, with a select few chosen by the ECR Committee for short talks.** All accepted abstracts will also be included in the official conference abstract compendium.  
+**Accepted abstracts will be presented in the poster session, with a select few chosen by the ECR Committee for short talks.** All accepted abstracts will also be included in the official conference abstract compendium.
 
-<span style="color: red; font-weight: bold;">Deadline: September 22nd, 5 PM AEDT</span>  
+<span style="color: red; font-weight: bold;">Deadline for oral presentation consideration: September 22nd, 5 PM AEDT</span>  
+
+We will continue to accept **late/breaking abstracts until October 20th, 5 PM AEDT**. Please note that submissions received after September 22nd will only be considered for poster presentations (not oral presentations).  
 
 <div style="text-align: center; margin: 20px;">
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSdszArExvkNl095vvFTJ_vRWdGxeN3X-LP3dPMTAoCAEvHF_Q/viewform?usp=sharing&ouid=105443068307516321703" target="_blank" class="btn btn-primary btn-xl page-scroll">
