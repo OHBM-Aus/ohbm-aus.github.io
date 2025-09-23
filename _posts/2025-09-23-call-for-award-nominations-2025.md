@@ -1,38 +1,33 @@
 ---
-title: "Call for Nominations: ECR and Leadership Awards"
+title: "Join the OHBM Australian Chapter Committee"
 date: 2025-09-23
 layout: post
 image: meeting.jpg
 ---
 
-## [**OHBM Australia awards -- 2025**](/awards)
+## [**Call for Nominations: OHBM Australia 2027 Executive Committee**](/team)
 
-Applications are now open for the annual OHBM Australia awards. 
+We are now accepting **self-nominations** for the OHBM Australia 2027 Executive Committee.  
 
+Open positions include:  
+- Chair  
+- Secretary  
+- Treasurer  
+- ECR Representative(s)  
+- Student Representative(s)  
 
-- [**Early Career researcher Award**](/posts/2025-early-career-researcher-award/):
+Our executive committee is committed to representing the diversity of the OHBM-Oz community, and we strongly encourage applications from individuals of all backgrounds and career stages.  
 
-  This award is designed to support and recognise promising early-career researchers who have made noteworthy contributions to the field of human brain mapping.
+### 📅 Deadline  
+Self-nominations must be received by **Friday, 17 October 2025**.  
 
-  <div style="text-align: center; margin: 20px; font-size: 12px;">
-      <a href="/posts/2025-early-career-researcher-award/" class="btn btn-primary page-scroll">
-          <i class="fa-solid fa-award"></i>
-          &nbsp; Find out more!
-      </a>
-  </div>
+### 📩 How to apply  
+Please email your application to [**ohbm.aus@gmail.com**](mailto:ohbm.aus@gmail.com) including:  
+- Your name  
+- The position(s) you are nominating for  
+- A short (1-paragraph) biography  
+- A photograph (for your profile on the website)  
 
-- [**Emerging Leadership Award**](/posts/2025-emerging-leadership-award/):
+All applications will be circulated to the current committee for review. If multiple nominations are received for a position, an election will be held during the **Annual General Meeting (AGM)** at our [2025 Annual Meeting in Melbourne](/posts/2025-annual-meeting) (**12 November 2025**).  
 
-  This award is established to honour and recognise early-to-mid-career (EMCR) researchers who have demonstrated exceptional independence, leadership, and a significant scientific contribution to the field of human brain mapping.
-
-  <div style="text-align: center; margin: 20px; font-size: 12px;">
-      <a href="/posts/2025-emerging-leadership-award/" class="btn btn-primary page-scroll">
-          <i class="fa-solid fa-award"></i>
-          &nbsp; Find out more!
-      </a>
-  </div>
-
-
-Please submit applications as a single PDF file to [**ohbm.aus@gmail.com**](mailto:ohbm.aus@gmail.com).
-
-The deadline for all award applications is <span style="color: red;">**Monday, 20 October 2025**</span>.
+---
