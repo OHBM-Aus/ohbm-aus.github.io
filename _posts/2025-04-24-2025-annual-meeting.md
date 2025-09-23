@@ -38,7 +38,7 @@ Abstract submissions are now open! Due to space limitations, not all abstracts m
 
 <span style="color: red; font-weight: bold;">Deadline for oral presentation consideration: September 22nd, 5 PM AEDT</span>  
 
-We will continue to accept **late/breaking abstracts until October 20th, 5 PM AEDT**. Please note that submissions received after September 22nd will only be considered for poster presentations (not oral presentations).  
+We will continue to accept <span class="text-secondary" style="font-weight: bold;">late/breaking abstracts until October 20th, 5 PM AEDT</span>. Please note that submissions received after September 22nd will only be considered for poster presentations (not oral presentations).  
 
 <div style="text-align: center; margin: 20px;">
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSdszArExvkNl095vvFTJ_vRWdGxeN3X-LP3dPMTAoCAEvHF_Q/viewform?usp=sharing&ouid=105443068307516321703" target="_blank" class="btn btn-primary btn-xl page-scroll">
