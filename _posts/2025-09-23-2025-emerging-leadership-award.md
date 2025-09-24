@@ -22,7 +22,7 @@ The Emerging Leadership Award is established to honour and recognize early-to-mi
     <i class="fa-solid fa-circle-check"></i> Eligibility Criteria
 </h3>
 
-1. Applicants must be within ten years of completing their doctoral degree (based on the date of the letter of completion, not conferral) as of 30 Sep 2024.
+1. Applicants must be within ten years of completing their doctoral degree (based on the date of the letter of completion, not conferral) as of 30 Sep 2025.
 2. Candidates should show research independence, leadership, and a sustained record of scientific contributions in human brain mapping.
 3. Applicants must be employed (at least 0.5 FTE) at a recognized research institution or university within Australia. Researchers who completed their PhD outside Australia but are currently based in Australia are also eligible.
 4. Active membership in the Australian Chapter of the Organization of Human Brain Mapping is required. You can become a member for free by filling [**this form**](https://docs.google.com/forms/d/e/1FAIpQLSe-7hOgdWB0sMSFNMZ73SJAOtrvaxEBjzg0EGiBoJorPyxWjg/viewform).
