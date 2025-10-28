@@ -77,4 +77,4 @@ Applications should include the following components:
     <i class="fa-solid fa-file-signature"></i> Submission Instructions
 </h3>
 
-All application materials must be compiled into a single PDF and submitted via email to **<a href="mailto:{{ site.email }}">{{ site.email }}</a>** with Early Career Researcher Award in subject line by<span style="color: red;"> the deadline of **Monday, 20 October 2025**</span>.
+All application materials must be compiled into a single PDF and submitted via email to **<a href="mailto:{{ site.email }}">{{ site.email }}</a>** with Early Career Researcher Award in subject line by<span style="color: red;"> the deadline of **Monday, 27 October 2025**</span>.

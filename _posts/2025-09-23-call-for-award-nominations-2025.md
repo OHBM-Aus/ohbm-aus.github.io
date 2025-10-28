@@ -35,4 +35,4 @@ Applications are now open for the annual OHBM Australia awards.
 
 Please submit applications as a single PDF file to [**ohbm.aus@gmail.com**](mailto:ohbm.aus@gmail.com).
 
-The deadline for all award applications is <span style="color: red;">**Monday, 20 October 2025**</span>.
+The deadline for all award applications is <span style="color: red;">**Monday, 27 October 2025**</span>.
