@@ -3,6 +3,7 @@ title: "2025 Annual Meeting"
 date: 2025-04-24
 layout: post
 image: meeting.jpg
+updated: 2025-11-04
 ---
 
 <img src="/img/logo_text.png" alt="Annual Meeting" style="display: block; margin: 0 auto; width: 50%; height: auto;">
