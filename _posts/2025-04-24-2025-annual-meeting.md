@@ -19,18 +19,33 @@ Our goal is to unite the Australian human brain mapping community.
 
 
 <div style="height: 60vh; position: relative; padding-top: 10px; padding-bottom: 10px;">
-  <iframe src="/files/OHBM_Australia_Chapter_2025_Meeting_Program.pdf" width="100%" height="100%"></iframe>
+  <iframe src="/files/OHBM_Australia_Chapter_2025_Meeting_Program_v2.pdf" width="100%" height="100%" title="Meeting Program"></iframe>
 </div>
-<a href="/files/OHBM_Australia_Chapter_2025_Meeting_Program.pdf" target="_blank">
-  <button class="btn btn-primary btn-xl" href="files/OHBM_Australia_Chapter_2025_Meeting_Program.pdf">
+<a href="/files/OHBM_Australia_Chapter_2025_Meeting_Program_v2.pdf" target="_blank">
+  <button class="btn btn-primary btn-xl" href="files/OHBM_Australia_Chapter_2025_Meeting_Program_v2.pdf">
     <i class="fa-solid fa-download"></i> Download 2025 program
   </button>
 </a>
 
 <hr>
 
+## **Poster presenters**
 
-## [**Abstract Submission**](https://docs.google.com/forms/d/e/1FAIpQLSdszArExvkNl095vvFTJ_vRWdGxeN3X-LP3dPMTAoCAEvHF_Q/viewform?usp=sharing&ouid=105443068307516321703)
+The full list of poster presenters, along with poster numbers can be found here:
+
+<div style="height: 60vh; position: relative; padding-top: 10px; padding-bottom: 10px;">
+  <iframe src="/files/2025_Poster_presenters.pdf" width="100%" height="100%" title="Poster presenters list"></iframe>
+</div>
+<a href="/files/2025_Poster_presenters.pdf" target="_blank">
+  <button class="btn btn-primary btn-xl" href="files/2025_Poster_presenters.pdf">
+    <i class="fa-solid fa-download"></i> Download Poster Presenters List
+  </button>
+</a>
+
+<hr>
+
+
+<!-- ## [**Abstract Submission**](https://docs.google.com/forms/d/e/1FAIpQLSdszArExvkNl095vvFTJ_vRWdGxeN3X-LP3dPMTAoCAEvHF_Q/viewform?usp=sharing&ouid=105443068307516321703)
 
 Abstract submissions are now open! Due to space limitations, not all abstracts may be accepted.
 
@@ -47,7 +62,7 @@ We will continue to accept <span class="text-secondary" style="font-weight: bold
     </a>
 </div>
 
-**Disclaimer:** Abstracts should be submitted via the Google Form linked above (requires a Google account). If you do not have a Google account, please email your abstract to **ohbm.aus@gmail.com** with the subject line: *"Abstract submission for OHBM Australia 2025"*.
+**Disclaimer:** Abstracts should be submitted via the Google Form linked above (requires a Google account). If you do not have a Google account, please email your abstract to **ohbm.aus@gmail.com** with the subject line: *"Abstract submission for OHBM Australia 2025"*. -->
 
 
 ---
