@@ -43,9 +43,6 @@ The full list of poster presenters, along with poster numbers can be found here:
   </button>
 </a>
 
-<hr>
-
-
 <!-- ## [**Abstract Submission**](https://docs.google.com/forms/d/e/1FAIpQLSdszArExvkNl095vvFTJ_vRWdGxeN3X-LP3dPMTAoCAEvHF_Q/viewform?usp=sharing&ouid=105443068307516321703)
 
 Abstract submissions are now open! Due to space limitations, not all abstracts may be accepted.
