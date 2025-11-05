@@ -1,5 +1,17 @@
 webinars:
 
+  - title: "Mingle Like You Mean It: Top Tips for Conference Networking & Collaboration"
+    year: 2025
+    speakers:
+      - name: A/Prof. Trevor Chong
+        link: https://research.monash.edu/en/persons/trevor-chong/
+      - name: Dr. Kelly Garner
+        link: https://www.unsw.edu.au/staff/kelly-grace-garner
+      - name: Dr. Caio Seguin
+        link: https://findanexpert.unimelb.edu.au/profile/862311-caio-pimentel-seguin
+    videoID: ZoB5QgGLYAw
+    idx: "2025_1"
+
   - title: "The Current Funding Landscape for Neuroimaging Research in Australia"
     year: 2024
     speakers:
