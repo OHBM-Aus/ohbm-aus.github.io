@@ -12,9 +12,9 @@ image: meeting.jpg
 This year, we were excited to introduce a new set of awards to recognize the outstanding contributions our members are making in the field of Human Brain Mapping. We are proud to announce the recipients of this year’s awards. Congratulations to all!
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="/img/Ye-Award.jpg"
+  <img src="/img/people/Ye-Award.jpg" alt="Dr. Ye Ella Tian"
        style="height: 300px; width: auto; object-fit: contain;">
-  <img src="/img/Yuanzhe-Award.jpg"
+  <img src="/img/people/Yuanzhe-Award.jpg" alt="Dr. Yuanzhe Liu"
        style="height: 300px; width: auto; object-fit: contain;">
 </div>
 
@@ -48,7 +48,7 @@ Dr. Liu's research focuses on computational models of brain connectivity, using 
 
 <div style="text-align: center; padding: 10px;">
     <a href="https://findanexpert.unimelb.edu.au/profile/827141-ye-tian" target="_blank" rel="noopener noreferrer">
-        <img src="/img/people/ye.jpg" alt="Dr. Ye Ella Tian" class="awardee-img" style="width: 200px; height: 200px; border-radius: 50%;">
+        <img src="/img/people/ye.jpeg" alt="Dr. Ye Ella Tian" class="awardee-img" style="width: 200px; height: 200px; border-radius: 50%;">
         <h3 class="text-primary">
             <i class="fa-solid fa-trophy"></i> Dr. Ye Ella Tian <i class="fa-solid fa-trophy"></i>
         </h3>
