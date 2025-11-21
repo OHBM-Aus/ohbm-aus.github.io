@@ -8,7 +8,7 @@ updated: 2025-11-21
 
 <img src="/img/logo_text.png" alt="Annual Meeting" style="display: block; margin: 0 auto; width: 50%; height: auto;">
 
-<img src="/img/events/2025_meeting.jpg" alt="Annual Meeting" style="display: block; margin: 0 auto; width: 80%; height: auto;">
+<img src="/img/events/2025_meeting.jpg" alt="Annual Meeting" style="display: block; margin: 0 auto; width: 100%; height: auto;">
 
 <!-- We are excited to announce that the **2025 OHBM Australia Meeting** is scheduled for **Wednesday November 12, 2025**. The meeting will be hosted in Melbourne. Please lock in the date in your calendars!
 
