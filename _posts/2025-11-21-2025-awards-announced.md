@@ -22,7 +22,7 @@ This year, we were excited to introduce a new set of awards to recognize the out
 <hr class="primary" style="padding: 10px;">
 
 <h2 class="text-primary">
-    <i class="fa-solid fa-star"></i> Early Career Researcher Awards:
+    <i class="fa-solid fa-star"></i> Early Career Researcher Award:
 </h2> 
 
 <br>
