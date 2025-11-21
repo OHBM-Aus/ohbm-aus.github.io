@@ -3,14 +3,18 @@ title: "2025 Annual Meeting"
 date: 2025-04-24
 layout: post
 image: meeting.jpg
-updated: 2025-11-04
+updated: 2025-11-21
 ---
 
 <img src="/img/logo_text.png" alt="Annual Meeting" style="display: block; margin: 0 auto; width: 50%; height: auto;">
 
-We are excited to announce that the **2025 OHBM Australia Meeting** is scheduled for **Wednesday November 12, 2025**. The meeting will be hosted in Melbourne. Please lock in the date in your calendars!
+<img src="/img/events/2025_meeting.jpg" alt="Annual Meeting" style="display: block; margin: 0 auto; width: 80%; height: auto;">
 
-We look forward to welcoming you to Melbourne.
+<!-- We are excited to announce that the **2025 OHBM Australia Meeting** is scheduled for **Wednesday November 12, 2025**. The meeting will be hosted in Melbourne. Please lock in the date in your calendars!
+
+We look forward to welcoming you to Melbourne. -->
+
+Thank you to everyone who joined us for the 2025 OHBM Australia Meeting on **Wednesday 12 November** in Melbourne. It was a pleasure to bring the community together, and we look forward to seeing you again next year.
 
 Our goal is to unite the Australian human brain mapping community.
 
