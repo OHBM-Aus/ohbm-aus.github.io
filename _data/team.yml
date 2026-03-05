@@ -1,56 +1,5 @@
 current:
 
-  - name: "Andrew Zalesky"
-    image: andrew.jpeg
-    title: Chair-Elect
-    link: https://findanexpert.unimelb.edu.au/profile/24599-andrew-zalesky
-    twitter: andrewzalesky
-    scholar: LmnMR3MAAAAJ
-
-  - name: "Amanda Robinson"
-    image: amanda.png
-    title: Secretary-Elect
-    link: https://mattingley-lab.uq-qbi-cogneuro.com/home/people/dr-amanda-robinson
-    twitter: amandarob10
-    scholar: PaKRSt4AAAAJ
-
-  - name: "Claire O'Callaghan"
-    image: claire.jpg
-    title: Treasurer-Elect
-    link: https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/claire-ocallaghan.html
-    twitter: c__ocallaghan
-    scholar: a0SO9nEAAAAJ
-
-  - name: "Sina Mansour L."
-    image: sina.png
-    title: ECR representative
-    link: https://sina-mansour.github.io/
-    twitter: Sina_Mansour_L
-    scholar: GVoC568AAAAJ
-
-  - name: "Natasha Taylor"
-    image: natasha.png
-    title: ECR representative
-    link: https://www.linkedin.com/in/natasha-taylor-b05a5b207?originalSubdomain=au
-    twitter: NatashaL_Taylor
-    scholar: 6zhgsicAAAAJ
-
-  - name: "Matthew Greaves"
-    image: matthew.jpeg
-    title: Student representative
-    link: https://www.linkedin.com/in/matthew-d-greaves/?originalSubdomain=au
-    twitter: ???
-    scholar: ???
-
-  - name: "Priscila T. Levi"
-    image: priscila.jpeg
-    title: Student representative
-    link: https://www.linkedin.com/in/priscila-levi-567168184/?originalSubdomain=au
-    twitter: PriscilaTLevi
-    scholar: ???
-
-elect:
-
   - name: "Luca Cocchi"
     image: l-cocchi.png
     title: Chair-Elect
@@ -114,7 +63,108 @@ elect:
     twitter: muskankhetan02
     scholar: ???
 
+elect:
+
+  - name: "Claire O'Callaghan"
+    image: claire.jpg
+    title: Chair-Elect
+    link: https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/claire-ocallaghan.html
+    twitter: c__ocallaghan
+    scholar: a0SO9nEAAAAJ
+
+  - name: "Connie Tse"
+    image: connie.jpeg
+    title: Secretary-Elect
+    link: https://research.monash.edu/en/persons/connie-tse/
+    twitter: connie_tse1
+    scholar: JjOZvNAAAAAJ
+
+  - name: "Margaret Moore"
+    image: margaret.jpg
+    title: Treasurer-Elect
+    link: https://qbi.uq.edu.au/profile/14599/margaret-moore
+    twitter: _MJ_Moore_
+    scholar: Wxcg9uUAAAAJ
+
+  - name: "Warda Syeda"
+    image: warda.jpg
+    title: ECR representative
+    link: https://findanexpert.unimelb.edu.au/profile/687479-warda-syeda
+    twitter: ???
+    scholar: 6PNAR0EAAAAJ
+
+  - name: "Sila Genc"
+    image: sila.jpg
+    title: ECR representative
+    link: https://www.mcri.edu.au/researcher-details/sila-genc
+    twitter: drsilagenc
+    scholar: Xx5t7a4AAAAJ
+
+  - name: "Annie Bryant"
+    image: annie.jpg
+    title: ECR representative
+    link: https://anniegbryant.github.io/
+    twitter: AnnieGBryant
+    scholar: z7tXyHMAAAAJ
+
+  - name: "Amir Hossein Dakhili"
+    image: amir.jpeg
+    title: Student representative
+    link: https://amirdakhili.github.io/
+    twitter: AmirHDakhili
+    scholar: Rr-P5ZIAAAAJ
+
 past:
+  - year: 2024-2025
+    team:
+      - name: "Andrew Zalesky"
+        image: andrew.jpeg
+        title: Chair-Elect
+        link: https://findanexpert.unimelb.edu.au/profile/24599-andrew-zalesky
+        twitter: andrewzalesky
+        scholar: LmnMR3MAAAAJ
+
+      - name: "Amanda Robinson"
+        image: amanda.png
+        title: Secretary-Elect
+        link: https://mattingley-lab.uq-qbi-cogneuro.com/home/people/dr-amanda-robinson
+        twitter: amandarob10
+        scholar: PaKRSt4AAAAJ
+
+      - name: "Claire O'Callaghan"
+        image: claire.jpg
+        title: Treasurer-Elect
+        link: https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/claire-ocallaghan.html
+        twitter: c__ocallaghan
+        scholar: a0SO9nEAAAAJ
+
+      - name: "Sina Mansour L."
+        image: sina.png
+        title: ECR representative
+        link: https://sina-mansour.github.io/
+        twitter: Sina_Mansour_L
+        scholar: GVoC568AAAAJ
+
+      - name: "Natasha Taylor"
+        image: natasha.png
+        title: ECR representative
+        link: https://www.linkedin.com/in/natasha-taylor-b05a5b207?originalSubdomain=au
+        twitter: NatashaL_Taylor
+        scholar: 6zhgsicAAAAJ
+
+      - name: "Matthew Greaves"
+        image: matthew.jpeg
+        title: Student representative
+        link: https://www.linkedin.com/in/matthew-d-greaves/?originalSubdomain=au
+        twitter: ???
+        scholar: ???
+
+      - name: "Priscila T. Levi"
+        image: priscila.jpeg
+        title: Student representative
+        link: https://www.linkedin.com/in/priscila-levi-567168184/?originalSubdomain=au
+        twitter: PriscilaTLevi
+        scholar: ???
   - year: 2023-2024
     team:
       - name: "Adeel Razi"
