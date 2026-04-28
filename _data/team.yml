@@ -2,21 +2,21 @@ current:
 
   - name: "Luca Cocchi"
     image: l-cocchi.png
-    title: Chair-Elect
+    title: Chair
     link: https://www.qimrb.edu.au/about/our-people/associate-professor-luca-cocchi
     twitter: ???
     scholar: 17pa5YgAAAAJ
 
   - name: "Lisanne Jenkins"
     image: Lisane.jpg
-    title: Secretary-Elect
+    title: Secretary
     link: https://research.monash.edu/en/persons/lisanne-jenkins
     twitter: lisannej
     scholar: HGEQsqgAAAAJ
 
   - name: "Leonardo Novelli"
     image: leonardo.jpg
-    title: Treasurer-Elect
+    title: Treasurer
     link: https://research.monash.edu/en/persons/leonardo-novelli
     twitter: novelli_leo
     scholar: Ci5AsaQAAAAJ
@@ -25,7 +25,7 @@ current:
     image: trang.jpeg
     title: ECR representative
     link: https://research.monash.edu/en/persons/trang-cao
-    twitter: ???
+    twitter: TrangCao2016
     scholar: A0Td5P8AAAAJ
 
   - name: "Stuart Oldham"
