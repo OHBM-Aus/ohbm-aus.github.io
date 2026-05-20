@@ -584,3 +584,41 @@ hr.secondary-faded {
     visibility: visible;
     opacity: 1;
 }
+
+/* Service box links */
+.service-box-link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s ease;
+
+    &:hover,
+    &:focus {
+        text-decoration: none;
+        color: inherit;
+        transform: translateY(-4px);
+    }
+}
+
+/* Tooltip styling */
+.tooltip-inner {
+    background-color: rgba(235, 235, 235, 0.85);
+    color: #2c2c2c;
+    font-size: 1.1rem;
+    padding: 0.5em 0.8em;
+    border-radius: 4px;
+    max-width: 250px;
+}
+
+.tooltip.top .tooltip-arrow {
+    border-top-color: rgba(235, 235, 235, 0.85);
+}
+.tooltip.bottom .tooltip-arrow {
+    border-bottom-color: rgba(235, 235, 235, 0.85);
+}
+.tooltip.left .tooltip-arrow {
+    border-left-color: rgba(235, 235, 235, 0.85);
+}
+.tooltip.right .tooltip-arrow {
+    border-right-color: rgba(235, 235, 235, 0.85);
+}

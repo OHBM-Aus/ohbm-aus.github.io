@@ -45,6 +45,9 @@
     // Initialize WOW.js Scrolling Animations
     new WOW().init();
 
+    // Initialise Bootstrap tooltips
+    $('[data-toggle="tooltip"]').tooltip();
+
 })(jQuery); // End of use strict
 
 document.addEventListener('DOMContentLoaded', function() {
@@ -62,13 +65,16 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-
     const toast = document.getElementById("toast-notif");
-    toast.classList.add("toast-show");
-    setTimeout(closeToast, 5000);
+    if (toast) {
+        toast.classList.add("toast-show");
+        setTimeout(closeToast, 5000);
+    }
 });
 
 function closeToast() {
     const toast = document.getElementById("toast-notif");
-    toast.classList.remove("toast-show");
+    if (toast) {
+        toast.classList.remove("toast-show");
+    }
 }
