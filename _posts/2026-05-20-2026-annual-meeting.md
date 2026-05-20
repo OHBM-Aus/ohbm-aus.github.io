@@ -45,28 +45,24 @@ The full list of poster presenters, along with poster numbers can be found here:
   </button>
 </a> -->
 
-## **Abstract Submission**
-
-<span style="color: gray;">Abstract Submission has not opened yet, please check back later.</span>
-
-<!-- ## [**Abstract Submission**](https://docs.google.com/forms/d/e/1FAIpQLSdszArExvkNl095vvFTJ_vRWdGxeN3X-LP3dPMTAoCAEvHF_Q/viewform?usp=sharing&ouid=105443068307516321703)
+## [**Abstract Submission**](https://docs.google.com/forms/d/e/1FAIpQLSfpqIlrzd2poRfV-zQMMKeIFFl6TrSRpm4jZdRbYTYU9PApwg/viewform?usp=sharing&ouid=110587895955968247122){:target="_blank"}
 
 Abstract submissions are now open! Due to space limitations, not all abstracts may be accepted.
 
-**Accepted abstracts will be presented in the poster session, with a select few chosen by the ECR Committee for short talks.** All accepted abstracts will also be included in the official conference abstract compendium.
+**Accepted abstracts will be presented in the poster session, with a select few chosen by the ECR Committee for short talks.** All accepted abstracts will also be included in the official conference abstract compendium. The abstract book for the 2025 meeting is now available on [Zenodo](https://zenodo.org/records/20278234){:target="_blank"}.
 
-<span style="color: red; font-weight: bold;">Deadline for oral presentation consideration: September 22nd, 5 PM AEDT</span>  
+<span style="color: red; font-weight: bold;">Deadline for abstract submission: Thursday, August 20th, 5 PM AEDT</span>  
 
-We will continue to accept <span class="text-secondary" style="font-weight: bold;">late/breaking abstracts until October 20th, 5 PM AEDT</span>. Please note that submissions received after September 22nd will only be considered for poster presentations (not oral presentations).  
+<!-- We will continue to accept <span class="text-secondary" style="font-weight: bold;">late/breaking abstracts until October 20th, 5 PM AEDT</span>. Please note that submissions received after September 22nd will only be considered for poster presentations (not oral presentations).   -->
 
 <div style="text-align: center; margin: 20px;">
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdszArExvkNl095vvFTJ_vRWdGxeN3X-LP3dPMTAoCAEvHF_Q/viewform?usp=sharing&ouid=105443068307516321703" target="_blank" class="btn btn-primary btn-xl page-scroll">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfpqIlrzd2poRfV-zQMMKeIFFl6TrSRpm4jZdRbYTYU9PApwg/viewform?usp=sharing&ouid=110587895955968247122" target="_blank" class="btn btn-primary btn-xl page-scroll">
         <i class="fa-solid fa-arrow-pointer"></i>
         &nbsp; Submit Your Abstract
     </a>
 </div>
 
-**Disclaimer:** Abstracts should be submitted via the Google Form linked above (requires a Google account). If you do not have a Google account, please email your abstract to **ohbm.aus@gmail.com** with the subject line: *"Abstract submission for OHBM Australia 2025"*. -->
+<!-- **Disclaimer:** Abstracts should be submitted via the Google Form linked above (requires a Google account). If you do not have a Google account, please email your abstract to **ohbm.aus@gmail.com** with the subject line: *"Abstract submission for OHBM Australia 2025"*. -->
 
 <!-- ## [**Abstract Submission**](https://docs.google.com/forms/d/e/1FAIpQLSdszArExvkNl095vvFTJ_vRWdGxeN3X-LP3dPMTAoCAEvHF_Q/viewform?usp=sharing&ouid=105443068307516321703)
 
