@@ -1,12 +1,20 @@
 meetings:
 
   - name: "Annual OHBM Australia Meeting"
-    image: melbourne.jpg
-    message: Mark your calendar for the [**annual OHBM-OZ meeting**](/posts/2025-annual-meeting/), scheduled for Wednesday November 12, 2025 in Melbourne, Victoria. We look forward to welcoming you to this exciting event! 
-
-  - name: "OHBM 2025, Brisbane"
     image: brisbane.jpg
-    message: The [**OHBM 2025 Annual Meeting**](https://humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229){:target="_blank"} is scheduled to take place from June 24 - June 28, 2025 at the Brisbane Convention and Exhibition Centre.
+    message: Mark your calendar for the [**annual OHBM-OZ meeting**](/posts/2026-annual-meeting/), scheduled for Friday October 23, 2026 in Brisbane, QLD. We look forward to welcoming you to this exciting event!
+
+  - name: "OHBM 2026, Bordeaux"
+    image: bordeaux.jpg
+    message: The [**OHBM 2026 Annual Meeting**](https://humanbrainmapping.org/OHBM2026/){:target="_blank"} is scheduled to take place from June 14 to June 18, 2026 in Bordeaux, France.
+
+  # - name: "Annual OHBM Australia Meeting"
+  #   image: melbourne.jpg
+  #   message: Mark your calendar for the [**annual OHBM-OZ meeting**](/posts/2025-annual-meeting/), scheduled for Wednesday November 12, 2025 in Melbourne, Victoria. We look forward to welcoming you to this exciting event! 
+
+  # - name: "OHBM 2025, Brisbane"
+  #   image: brisbane.jpg
+  #   message: The [**OHBM 2025 Annual Meeting**](https://humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229){:target="_blank"} is scheduled to take place from June 24 - June 28, 2025 at the Brisbane Convention and Exhibition Centre.
 
   # - name: "Annual OHBM Australia Meeting"
   #   image: kmb.jpg
