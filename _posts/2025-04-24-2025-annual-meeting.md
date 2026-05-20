@@ -3,7 +3,7 @@ title: "2025 Annual Meeting"
 date: 2025-04-24
 layout: post
 image: meeting.jpg
-updated: 2025-11-21
+updated: 2026-05-20
 ---
 
 <img src="/img/logo_text.png" alt="Annual Meeting" style="display: block; margin: 0 auto; width: 50%; height: auto;">
@@ -17,6 +17,16 @@ We look forward to welcoming you to Melbourne. -->
 Thank you to everyone who joined us for the 2025 OHBM Australia Meeting on **Wednesday 12 November** in Melbourne. It was a pleasure to bring the community together, and we look forward to seeing you again next year.
 
 Our goal is to unite the Australian human brain mapping community.
+
+<hr>
+
+## [**Abstracts booklet**](https://zenodo.org/records/20278234)
+
+The abstracts booklet for the 2025 OHBM Australia Chapter Meeting is now available on [Zenodo](https://zenodo.org/records/20278234). This booklet includes all abstracts accepted for presentation at the meeting, showcasing the breadth and depth of research in human brain mapping across Australia.
+
+You may use the following citation when referencing the abstracts booklet:
+
+> Organisation for Human Brain Mapping (OHBM) Australia Chapter. (2026, May 1). Meeting Abstracts for the 2025 Annual Meeting, Melbourne, Australia. https://doi.org/10.5281/zenodo.20278234
 
 <hr>
 
@@ -71,6 +81,8 @@ We will continue to accept <span class="text-secondary" style="font-weight: bold
 
 ## [**Registration**](https://ecommerce.unimelb.edu.au/ohbm-2025-australia-chapter-meeting-registration)
 
+<!-- ## [**Registration**](https://ecommerce.unimelb.edu.au/ohbm-2025-australia-chapter-meeting-registration)
+
 Registration for the OHBM 2025 Australia Chapter Meeting is now open!  
 
 <span style="color: red; font-weight: bold;">Deadline: November 5th, 5 PM AEDT</span>  
@@ -80,11 +92,11 @@ Registration for the OHBM 2025 Australia Chapter Meeting is now open!
         <i class="fa-solid fa-arrow-pointer"></i>
         &nbsp; Register Now
     </a>
-</div>
+</div> -->
 
 
-<hr>
+<!-- <hr>
 
 **Please stay tuned to this webpage for any updates.**
 
-We look forward to your participation and contributions. For any questions or additional information, please feel free to [contact us](mailto:ohbm.aus@gmail.com).
+We look forward to your participation and contributions. For any questions or additional information, please feel free to [contact us](mailto:ohbm.aus@gmail.com). -->
