@@ -3,7 +3,7 @@ title: "2026 Annual Meeting"
 date: 2026-05-20
 layout: post
 image: meeting.jpg
-updated: 2026-05-20
+updated: 2026-06-03
 ---
 
 <img src="/img/logo_text.png" alt="Annual Meeting" style="display: block; margin: 0 auto; width: 50%; height: auto;">
@@ -64,43 +64,21 @@ Abstract submissions are now open! Due to space limitations, not all abstracts m
 
 <!-- **Disclaimer:** Abstracts should be submitted via the Google Form linked above (requires a Google account). If you do not have a Google account, please email your abstract to **ohbm.aus@gmail.com** with the subject line: *"Abstract submission for OHBM Australia 2025"*. -->
 
-<!-- ## [**Abstract Submission**](https://docs.google.com/forms/d/e/1FAIpQLSdszArExvkNl095vvFTJ_vRWdGxeN3X-LP3dPMTAoCAEvHF_Q/viewform?usp=sharing&ouid=105443068307516321703)
-
-Abstract submissions are now open! Due to space limitations, not all abstracts may be accepted.  
-
-**Accepted abstracts will be presented in the poster session, with a select few chosen by the ECR Committee for short talks.** All accepted abstracts will also be included in the official conference abstract compendium.  
-
-<span style="color: red; font-weight: bold;">Deadline: September 22nd, 5 PM AEDT</span>  
-
-<div style="text-align: center; margin: 20px;">
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdszArExvkNl095vvFTJ_vRWdGxeN3X-LP3dPMTAoCAEvHF_Q/viewform?usp=sharing&ouid=105443068307516321703" target="_blank" class="btn btn-primary btn-xl page-scroll">
-        <i class="fa-solid fa-arrow-pointer"></i>
-        &nbsp; Submit Your Abstract
-    </a>
-</div>
-
-
-**Disclaimer:** Abstracts should be submitted via the Google Form linked above (requires a Google account). If you do not have a Google account, please email your abstract to **ohbm.aus@gmail.com** with the subject line: *"Abstract submission for OHBM Australia 2025"*. -->
-
 
 ---
 
-## **Registration**
+## [**Registration**](https://events.humanitix.com/ohbm-australia-meeting-2026)
 
-<span style="color: gray;">Registration has not opened yet, please check back later.</span>
+Registration for the OHBM 2026 Australia Chapter Meeting is now open. Be sure to secure your spot early, as places are limited.
 
-<!-- ## [**Registration**](https://ecommerce.unimelb.edu.au/ohbm-2025-australia-chapter-meeting-registration) -->
-
-<!-- Registration for the OHBM 2026 Australia Chapter Meeting is now open!  
-
-<span style="color: red; font-weight: bold;">Deadline: November 5th, 5 PM AEDT</span>  
+<!-- <span style="color: red; font-weight: bold;">Deadline: November 5th, 5 PM AEDT</span>   -->
 
 <div style="text-align: center; margin: 20px;">
-    <a href="https://ecommerce.unimelb.edu.au/ohbm-2025-australia-chapter-meeting-registration" target="_blank" class="btn btn-primary btn-xl page-scroll">
+    <a href="https://events.humanitix.com/ohbm-australia-meeting-2026" target="_blank" class="btn btn-primary btn-xl page-scroll">
         <i class="fa-solid fa-arrow-pointer"></i>
         &nbsp; Register Now
     </a>
-</div> -->
+</div>
 
 
 <hr>
