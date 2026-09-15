@@ -593,6 +593,32 @@ hr.secondary-faded {
     width: auto;
 }
 
+#aperture {
+    padding: 50px 0;
+}
+
+.aperture-row {
+    @media (min-width: 992px) {
+        display: flex;
+        align-items: center;
+    }
+    p:last-child {
+        margin-bottom: 0;
+    }
+}
+
+.aperture-logo img {
+    max-height: 120px;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    margin: 0 auto;
+}
+
+.aperture-cta .btn {
+    white-space: nowrap;
+}
+
 /* Toast Notification Styles */
 .toast-notification {
     display: flex;
