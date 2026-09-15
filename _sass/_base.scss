@@ -508,6 +508,11 @@ hr.secondary-faded {
     color: #BBB;
 }
 
+.webinar-entry + .webinar-entry {
+    border-top: 1px solid rgba($theme-dark, 0.18);
+    padding-top: 50px;
+}
+
 .webinar-iframe {
     border-radius: 50px;
     overflow: hidden;

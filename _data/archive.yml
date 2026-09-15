@@ -1,5 +1,29 @@
 webinars:
 
+  - title: "Bayesian Statistics in Neuroimaging"
+    year: 2026
+    speakers:
+      - name: A/Prof. Charles Malpas
+        link: https://findanexpert.unimelb.edu.au/profile/74935-charles-malpas
+      - name: Dr. Matthew D. Greaves
+        link: https://findanexpert.unimelb.edu.au/profile/887026-matthew-greaves
+      - name: Dr. Elise G. Rowe
+        link: https://findanexpert.unimelb.edu.au/profile/892855-elise-rowe
+    videoID: BI6CEl93jNs
+    idx: "2026_1"
+
+  - title: "Artificial Intelligence in Neuroimaging: Methods, Opportunities, and Challenges"
+    year: 2025
+    speakers:
+      - name: Dr. Forough Habibollahi
+        link: https://foroughha.github.io/
+      - name: A/Prof. Heath Pardoe
+        link: https://florey.edu.au/researcher/heath-pardoe/
+      - name: A/Prof. Zhaolin Chen
+        link: https://www.drzchen.com/
+    videoID: GctjjQLyG7M
+    idx: "2025_2"
+
   - title: "Mingle Like You Mean It: Top Tips for Conference Networking & Collaboration"
     year: 2025
     speakers:
