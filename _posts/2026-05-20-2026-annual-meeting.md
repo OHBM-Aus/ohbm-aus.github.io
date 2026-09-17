@@ -3,7 +3,7 @@ title: "2026 Annual Meeting"
 date: 2026-05-20
 layout: post
 image: meeting.jpg
-updated: 2026-06-03
+updated: 2026-09-17
 ---
 
 <img src="/img/logo_text.png" alt="Annual Meeting" style="display: block; margin: 0 auto; width: 50%; height: auto;">
@@ -47,18 +47,20 @@ The full list of poster presenters, along with poster numbers can be found here:
 
 ## [**Abstract Submission**](https://docs.google.com/forms/d/e/1FAIpQLSfpqIlrzd2poRfV-zQMMKeIFFl6TrSRpm4jZdRbYTYU9PApwg/viewform?usp=sharing&ouid=110587895955968247122){:target="_blank"}
 
-Abstract submissions are now open! Due to space limitations, not all abstracts may be accepted.
+<!-- Abstract submissions are now open! Due to space limitations, not all abstracts may be accepted. -->
+
+The main round of abstract submissions has now closed. Due to space limitations, not all abstracts may be accepted.
 
 **Accepted abstracts will be presented in the poster session, with a select few chosen by the ECR Committee for short talks.** All accepted abstracts will also be included in the official conference abstract compendium. The abstract book for the 2025 meeting is now available on [Zenodo](https://zenodo.org/records/20278234){:target="_blank"}.
 
-<span style="color: red; font-weight: bold;">Deadline for abstract submission: Friday, August 28th, 5 PM AEDT</span>  
+<!-- <span style="color: red; font-weight: bold;">Deadline for abstract submission: Friday, August 28th, 5 PM AEST</span>   -->
 
-<!-- We will continue to accept <span class="text-secondary" style="font-weight: bold;">late/breaking abstracts until October 20th, 5 PM AEDT</span>. Please note that submissions received after September 22nd will only be considered for poster presentations (not oral presentations).   -->
+We will continue to accept <span style="color: red; font-weight: bold;">late/breaking abstracts until Friday, October 2nd, 5 PM AEST</span>. Please note that late/breaking submissions will only be considered for poster presentations (not oral presentations).
 
 <div style="text-align: center; margin: 20px;">
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSfpqIlrzd2poRfV-zQMMKeIFFl6TrSRpm4jZdRbYTYU9PApwg/viewform?usp=sharing&ouid=110587895955968247122" target="_blank" class="btn btn-primary btn-xl page-scroll">
         <i class="fa-solid fa-arrow-pointer"></i>
-        &nbsp; Submit Your Abstract
+        &nbsp; Submit a Late/Breaking Abstract
     </a>
 </div>
 
@@ -80,6 +82,20 @@ Registration for the OHBM 2026 Australia Chapter Meeting is now open. Be sure to
     </a>
 </div>
 
+<hr>
+
+## **Local Organising Committee**
+
+This year's meeting is being brought together with the support of our Local Organising Committee at [QIMR Berghofer Medical Research Institute](https://www.qimrberghofer.edu.au/){:target="_blank"} in Brisbane. We are grateful for the time and effort they have put into hosting the community in 2026.
+
+*(in alphabetical order)*
+
+- Luca Cocchi
+- Carina Forster
+- Luke Hearne
+- Kartik Iyer
+- James Roberts
+- Simon Thwaites
 
 <hr>
 
