@@ -18,6 +18,12 @@ Our goal is to unite the Australian human brain mapping community.
 
 <hr>
 
+## **Event timings**
+
+Registration opens at **9:00 AM**, with the meeting beginning at **9:25 AM** and closing at **5:00 PM**. Poster sessions will take place from mid-morning.
+
+<hr>
+
 <!-- ## **Program at a glance**
 
 
@@ -96,6 +102,7 @@ This year's meeting is being brought together with the support of our Local Orga
 - Kartik Iyer
 - James Roberts
 - Simon Thwaites
+- Qirong Wu
 
 <hr>
 
