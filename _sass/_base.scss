@@ -479,7 +479,8 @@ hr.secondary-faded {
 
 .circular-image {
     width: 80%;
-    height: 75%;
+    height: auto;
+    aspect-ratio: 1;
     margin: 10% 10% 5% 10%;
     border-radius: 50%;
     overflow: hidden;

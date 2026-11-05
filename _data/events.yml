@@ -1,12 +1,16 @@
 meetings:
 
-  - name: "Annual OHBM Australia Meeting"
-    image: brisbane.jpg
-    message: Mark your calendar for the [**annual OHBM-OZ meeting**](/posts/2026-annual-meeting/), scheduled for Friday October 23, 2026 in Brisbane, QLD. We look forward to welcoming you to this exciting event!
+  #- name: "Annual OHBM Australia Meeting"
+  #  image: brisbane.jpg
+  #  message: Mark your calendar for the [**annual OHBM-OZ meeting**](/posts/2026-annual-meeting/), scheduled for Friday October 23, 2026 in Brisbane, QLD. We look forward to welcoming you to this exciting event!
 
-  - name: "OHBM 2026, Bordeaux"
-    image: bordeaux.jpg
-    message: The [**OHBM 2026 Annual Meeting**](https://humanbrainmapping.org/OHBM2026/){:target="_blank"} is scheduled to take place from June 14 to June 18, 2026 in Bordeaux, France.
+  - name: "OHBM 2027, Toronto"
+    image: toronto.jpg
+    message: The [**OHBM 2027 Annual Meeting**](https://www.humanbrainmapping.org/ohbm-2027/){:target="_blank"} is scheduled to take place from June 26 to June 30, 2027 in Toronto, Canada.
+
+  # - name: "OHBM 2026, Bordeaux"
+  #  image: bordeaux.jpg
+  #  message: The [**OHBM 2026 Annual Meeting**](https://humanbrainmapping.org/OHBM2026/){:target="_blank"} is scheduled to take place from June 14 to June 18, 2026 in Bordeaux, France.
 
   # - name: "Annual OHBM Australia Meeting"
   #   image: melbourne.jpg

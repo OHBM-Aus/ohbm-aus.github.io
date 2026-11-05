@@ -1,70 +1,5 @@
 current:
 
-  - name: "Luca Cocchi"
-    image: l-cocchi.png
-    title: Chair
-    link: https://www.qimrb.edu.au/about/our-people/associate-professor-luca-cocchi
-    twitter: ???
-    scholar: 17pa5YgAAAAJ
-
-  - name: "Lisanne Jenkins"
-    image: Lisane.jpg
-    title: Secretary
-    link: https://research.monash.edu/en/persons/lisanne-jenkins
-    twitter: lisannej
-    scholar: HGEQsqgAAAAJ
-
-  - name: "Leonardo Novelli"
-    image: leonardo.jpg
-    title: Treasurer
-    link: https://research.monash.edu/en/persons/leonardo-novelli
-    twitter: novelli_leo
-    scholar: Ci5AsaQAAAAJ
-
-  - name: "Trang Ngoc Cao"
-    image: trang.jpeg
-    title: ECR representative
-    link: https://research.monash.edu/en/persons/trang-cao
-    twitter: TrangCao2016
-    scholar: A0Td5P8AAAAJ
-
-  - name: "Stuart Oldham"
-    image: stuart.jpeg
-    title: ECR representative
-    link: https://www.mcri.edu.au/researcher-details/stuart-oldham
-    twitter: stuartjoldham
-    scholar: jj5dZe0AAAAJ
-
-  - name: "Saurabh Sonkusare"
-    image: Saurabh.jpg
-    title: ECR representative
-    link: https://www.newcastle.edu.au/profile/saurabh-sonkusare
-    twitter: srb_sonkusare
-    scholar: gI6y9AQAAAAJ
-
-  - name: "Mehul Gajwani"
-    image: Mehul.jpg
-    title: Student representative
-    link: https://www.monash.edu/medicine/psych/alex-fornito-lab/lab-members
-    twitter: m_gajwani
-    scholar: g5UaCSwAAAAJ
-
-  - name: "Carmen Zheng"
-    image: Carmen.jpeg
-    title: Student representative
-    link: https://www.researchgate.net/profile/Carmen_Zheng4
-    twitter: ???
-    scholar: ???
-
-  - name: "Muskan Khetan"
-    image: muskan.jpg
-    title: Student representative
-    link: https://www.linkedin.com/in/muskankhetan/?originalSubdomain=au
-    twitter: muskankhetan02
-    scholar: ???
-
-elect:
-
   - name: "Claire O'Callaghan"
     image: claire.jpg
     title: Chair-Elect
@@ -114,7 +49,129 @@ elect:
     twitter: AmirHDakhili
     scholar: Rr-P5ZIAAAAJ
 
+elect:
+
+  - name: "Valentina Lorenzetti"
+    image: valentina3.jpg
+    title: Chair-Elect
+    link: https://www.acu.edu.au/research-and-enterprise/our-research-institutes/healthy-brain-and-mind-research-centre/our-people/professor-valentina-lorenzetti
+    twitter: ???
+    scholar: ???
+
+  - name: "Ben Sinclair"
+    image: ben.jpg
+    title: Secretary-Elect
+    link: https://research.monash.edu/en/persons/ben-sinclair
+    twitter: ???
+    scholar: ???
+
+  - name: "Baptiste Couvy-Duchesne"
+    image: Baptiste.jpg
+    title: Treasurer-Elect
+    link: https://www.qimrb.edu.au/about/our-people/baptiste-couvy-duchesne
+    twitter: ???
+    scholar: ???
+
+  - name: "Trang Cao"
+    image: trang2.jpg
+    title: Webmaster
+    link: https://research.monash.edu/en/persons/trang-cao
+    twitter: TrangCao2016
+    scholar: A0Td5P8AAAAJ
+
+  - name: "Yohan Wards"
+    image: yohan.jpg
+    title: ECR representative
+    link: ???
+    twitter: ???
+    scholar: ???
+
+  - name: "Giulia Baracchini"
+    image: giulia.jpg
+    title: ECR representative
+    link: ???
+    twitter: ???
+    scholar: ukWtjk0AAAAJ
+
+  - name: "Ariel Kim"
+    image: ariel.jpg
+    title: Student representative
+    link: ???
+    twitter: ???
+    scholar: ???
+
+  - name: "Aliza Naseer"
+    image: Aliza.jpg
+    title: Student representative
+    link: ???
+    twitter: ???
+    scholar: ???
+
 past:
+  - year: 2025-2026
+    team:
+      - name: "Luca Cocchi"
+        image: l-cocchi.png
+        title: Chair
+        link: https://www.qimrb.edu.au/about/our-people/associate-professor-luca-cocchi
+        twitter: ???
+        scholar: 17pa5YgAAAAJ
+
+      - name: "Lisanne Jenkins"
+        image: Lisane.jpg
+        title: Secretary
+        link: https://research.monash.edu/en/persons/lisanne-jenkins
+        twitter: lisannej
+        scholar: HGEQsqgAAAAJ
+
+      - name: "Leonardo Novelli"
+        image: leonardo.jpg
+        title: Treasurer
+        link: https://research.monash.edu/en/persons/leonardo-novelli
+        twitter: novelli_leo
+        scholar: Ci5AsaQAAAAJ
+
+      - name: "Trang Ngoc Cao"
+        image: trang.jpeg
+        title: ECR representative
+        link: https://research.monash.edu/en/persons/trang-cao
+        twitter: TrangCao2016
+        scholar: A0Td5P8AAAAJ
+
+      - name: "Stuart Oldham"
+        image: stuart.jpeg
+        title: ECR representative
+        link: https://www.mcri.edu.au/researcher-details/stuart-oldham
+        twitter: stuartjoldham
+        scholar: jj5dZe0AAAAJ
+
+      - name: "Saurabh Sonkusare"
+        image: Saurabh.jpg
+        title: ECR representative
+        link: https://www.newcastle.edu.au/profile/saurabh-sonkusare
+        twitter: srb_sonkusare
+        scholar: gI6y9AQAAAAJ
+
+      - name: "Mehul Gajwani"
+        image: Mehul.jpg
+        title: Student representative
+        link: https://www.monash.edu/medicine/psych/alex-fornito-lab/lab-members
+        twitter: m_gajwani
+        scholar: g5UaCSwAAAAJ
+
+      - name: "Carmen Zheng"
+        image: Carmen.jpeg
+        title: Student representative
+        link: https://www.researchgate.net/profile/Carmen_Zheng4
+        twitter: ???
+        scholar: ???
+
+      - name: "Muskan Khetan"
+        image: muskan.jpg
+        title: Student representative
+        link: https://www.linkedin.com/in/muskankhetan/?originalSubdomain=au
+        twitter: muskankhetan02
+        scholar: ???
   - year: 2024-2025
     team:
       - name: "Andrew Zalesky"
@@ -140,7 +197,7 @@ past:
 
       - name: "Sina Mansour L."
         image: sina.png
-        title: ECR representative
+        title: ECR representative, created the OHBM Australia website
         link: https://sina-mansour.github.io/
         twitter: Sina_Mansour_L
         scholar: GVoC568AAAAJ
